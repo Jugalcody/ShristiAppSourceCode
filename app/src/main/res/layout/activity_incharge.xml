@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".InchargeActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/stars"
+        android:id="@+id/inchargemainbg"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/head_incharge"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="15dp"
+        >
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/slogo"
+            android:layout_margin="17dp"
+
+            android:layout_below="@id/appbar_home"
+            android:scaleType="centerCrop"
+            android:id="@+id/logo_home"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/aldrich"
+            android:text="Shristi 2K24"
+            android:textColor="@color/white"
+            android:textSize="38sp" />
+    </LinearLayout>
+
+
+    <AutoCompleteTextView
+    android:layout_width="match_parent"
+    android:layout_marginStart="30dp"
+        android:layout_marginTop="80dp"
+    android:layout_marginEnd="30dp"
+    android:hint="Enter Branch Name"
+    android:textColorHint="#B1B0B0"
+
+        android:layout_below="@id/head_incharge"
+    android:id="@+id/inchage_pageautotxt"
+    android:background="@drawable/roundbut"
+    android:layout_height="wrap_content"
+    android:textSize="17sp"
+    android:padding="12dp"
+    android:textColor="@color/black"
+    />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:textColor="@color/black"
+        android:inputType="textPassword"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/roundbut"
+        android:textColorHint="#B1B0B0"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:textSize="17sp"
+        android:layout_below="@id/inchage_pageautotxt"
+        android:hint="Enter Code"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/incharge_code"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:background="#5E70D1"
+        android:layout_marginTop="12dp"
+        android:inputType="number"
+        android:maxLines="1"
+        android:maxLength="9"
+        android:id="@+id/incharge_proceed"
+        android:text="Proceed"
+        android:textSize="17sp"
+        android:textColor="#EAE7E7"
+        android:layout_below="@id/incharge_code"
+        android:padding="7dp"/>
+
+
+</RelativeLayout>

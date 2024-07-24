@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="#80000000"
+    android:background="@drawable/performance_cardview"
+    app:cardCornerRadius="10dp"
+    android:id="@+id/participant_cardview"
+app:strokeColor="#2F7732"
+    app:strokeWidth="2dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginStart="22sp"
+    android:layout_marginEnd="22sp"
+    android:layout_height="wrap_content">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_marginTop="5dp"
+    android:layout_height="match_parent"
+    android:padding="7dp"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_alignParentTop="true"
+    android:id="@+id/namesection"
+    android:layout_height="wrap_content"
+    >
+    <TextView
+        android:id="@+id/pname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@id/pcollege"
+        android:gravity="start"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:lineHeight="21dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/aldrich"
+        android:text="Rikesh Yadav"
+        android:textColor="@color/white"
+        android:justificationMode="inter_word"
+        android:textSize="17sp" />
+
+
+    <TextView
+        android:id="@+id/pcollege"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="5dp"
+        android:text="NERIST"
+        android:textColor="@color/white"
+        android:fontFamily="@font/yearone"
+        android:textSize="17sp" />
+
+</RelativeLayout>
+    <ImageView
+        android:id="@+id/pedit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+android:layout_below="@id/namesection"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="5dp"
+        android:padding="2dp"
+        android:src="@drawable/edit" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+android:layout_marginTop="10dp"
+        android:layout_below="@id/pedit"
+        >
+<ImageView
+    android:layout_width="40dp"
+    android:layout_height="30dp"
+    android:id="@+id/tofie"
+    android:layout_alignParentStart="true"
+    android:src="@drawable/resulticon"
+
+    />
+        <TextView
+            android:id="@+id/ptime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="1dp"
+            android:layout_toRightOf="@id/tofie"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/yearone"
+            android:text="Position"
+            android:textColor="@color/white"
+            android:textSize="13sp" />
+        <TextView
+            android:id="@+id/ptimevalue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/yearone"
+            android:text="1st"
+            android:textColor="@color/white"
+            android:textSize="13sp" />
+
+
+    </RelativeLayout>
+</RelativeLayout>
+</com.google.android.material.card.MaterialCardView>

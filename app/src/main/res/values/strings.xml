@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shristi2k24</string>
+    <string name="college_name">North Eastern Regional Institute Of Science And Technology</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="navigation_drawer_open">open</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bg"></string>
+</resources>

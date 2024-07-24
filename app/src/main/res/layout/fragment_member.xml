@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:layout_marginTop="58dp"
+    android:layout_height="match_parent"
+    tools:context=".MemberFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/stars2"
+
+        />
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/memberPage_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Committee Members"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/memberPage_rec1"
+    android:layout_below="@+id/memberPage_title"
+    />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="25dp"
+    android:layout_marginBottom="25dp"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_below="@id/memberPage_rec1"
+    android:orientation="horizontal"
+    android:id="@+id/mainsecyll_memberpage"
+    android:weightSum="12"
+    >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:background="@color/transparent"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/memberPage_ss1"
+            android:fontFamily="@font/aldrich"
+            android:text="Shristi Secy. "
+            />
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/memberpage_img1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:background="@color/white"
+            android:padding="3dp"
+            android:scaleType="centerCrop"
+            app:shapeAppearanceOverlay="@style/roundedImageview"
+            app:strokeColor="@color/black"
+            app:strokeWidth="2dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:id="@+id/memberpage_img1txt1"
+            android:text="Narang Talar"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/memberPage_ss2"
+            android:fontFamily="@font/aldrich"
+            android:text="Organising Secy."
+            />
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+
+            android:id="@+id/memberpage_img2"
+            android:background="@color/white"
+            app:shapeAppearanceOverlay="@style/roundedImageview"
+            android:padding="3dp"
+            android:scaleType="centerCrop"
+            app:strokeColor="@color/black"
+            app:strokeWidth="2dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:id="@+id/memberpage_img2txt2"
+            android:text="Avitu K. Casavi"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/memberPage_ss3"
+            android:fontFamily="@font/aldrich"
+            android:text="Asst. Shristi Secy"
+            />
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+
+            android:id="@+id/memberpage_img3"
+            android:background="@color/white"
+            app:shapeAppearanceOverlay="@style/roundedImageview"
+            android:padding="3dp"
+            android:scaleType="centerCrop"
+            app:strokeColor="@color/black"
+            app:strokeWidth="2dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:id="@+id/memberpage_img3txt3"
+            android:text="Om Prakash Singh"
+            />
+    </LinearLayout>
+</LinearLayout>
+
+    <TextView
+        android:id="@+id/memberPage_title2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainsecyll_memberpage"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Joint Organising Secy."
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec2"
+        android:layout_below="@+id/memberPage_title2"
+        />
+
+
+    <TextView
+        android:id="@+id/memberPage_title4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec2"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Graphics Desginer and Creative head"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec3"
+        android:layout_below="@+id/memberPage_title4"
+        />
+    <TextView
+        android:id="@+id/memberPage_title5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec3"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Info. and Pub. Secy."
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec4"
+        android:layout_below="@+id/memberPage_title5"
+        />
+
+    <TextView
+        android:id="@+id/memberPage_title6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec4"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Asst. Info. and Pub. Secy."
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec5"
+        android:layout_below="@+id/memberPage_title6"
+        />
+
+    <TextView
+        android:id="@+id/memberPage_title7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec5"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Girls Representative"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec6"
+        android:layout_below="@+id/memberPage_title7"
+        />
+
+
+    <TextView
+        android:id="@+id/memberPage_title77"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec6"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Publicity and Branding"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec66"
+        android:layout_below="@+id/memberPage_title77"
+        />
+
+    <TextView
+        android:id="@+id/memberPage_title8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec66"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Mun Secy."
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec7"
+        android:layout_below="@+id/memberPage_title8"
+        />
+
+
+    <TextView
+        android:id="@+id/memberPage_title9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec7"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Incharges"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec8"
+        android:layout_below="@+id/memberPage_title9"
+        />
+
+
+
+    <TextView
+        android:id="@+id/memberPage_title10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/memberPage_rec8"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/yearone"
+        android:text="Dept. I/C"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memberPage_rec9"
+        android:layout_below="@+id/memberPage_title10"
+        />
+</RelativeLayout>
+</ScrollView>
+</FrameLayout>

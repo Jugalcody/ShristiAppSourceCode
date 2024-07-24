@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Shristi2k24" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowEnterTransition">@transition/transitionset</item>
+        <item name="android:windowExitTransition">@transition/transitionset</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="ZoomTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowEnterAnimation">@anim/fadesin</item>
+        <item name="android:windowExitAnimation">@anim/fadesout</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.Shristi2k24" parent="Base.Theme.Shristi2k24" />
+</resources>

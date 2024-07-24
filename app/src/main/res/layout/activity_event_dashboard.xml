@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".EventDashboard">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/eventdashbg"
+        android:scaleType="centerCrop"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="24sp"
+    android:text=""
+    android:id="@+id/event_dashboadtitle"
+    android:layout_margin="10dp"
+    android:textColor="@color/white"
+    android:fontFamily="@font/aldrich"
+    />
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:id="@+id/eventdashboard_constraint"
+
+                android:layout_below="@id/event_dashboadtitle"
+                android:layout_height="wrap_content"
+                >
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHeight_default="wrap"
+                    app:layout_constraintHeight_min="100dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintHeight_max="550dp"
+                    android:paddingStart="10dp"
+                    android:paddingBottom="11dp"
+                    android:paddingEnd="10dp"
+                    android:paddingTop="11dp"
+                    android:src="@drawable/hardwaregeek"
+                    android:id="@+id/image_eventdashboard"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textcolor"
+        android:textSize="15sp"
+        android:id="@+id/date_eventdashboard"
+        android:fontFamily="@font/aldrich"
+        android:text="06/03/2002"
+        android:layout_marginStart="10dp"
+        android:layout_below="@id/eventdashboard_constraint"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textcolor"
+        android:textSize="15sp"
+        android:id="@+id/time_eventdashboard"
+        android:fontFamily="@font/aldrich"
+        android:text="09:00 AM - 10:00 PM"
+        android:layout_marginEnd="10dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/eventdashboard_constraint"
+        />
+
+            <RelativeLayout
+                android:id="@+id/dashdesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/date_eventdashboard"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginBottom="0dp"
+                android:background="@color/transparent">
+
+                <TextView
+                    android:id="@+id/event_descTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginTop="20sp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/aldrich"
+                    android:text="Description"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/desc_eventdashboard"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/event_descTitle"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="12dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Join us on 9 april in this auspicious event"
+                    android:textColor="@color/black"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="10"
+    android:id="@+id/spe_ll"
+    android:layout_below="@id/dashdesc"
+    android:layout_margin="10dp"
+    android:padding="10dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    >
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:textColor="@color/white"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Register"
+        android:fontFamily="@font/aldrich"
+        android:padding="20dp"
+        android:background="@drawable/eventbutton"
+        android:id="@+id/registerforevent"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:padding="20dp"
+        android:layout_margin="5dp"
+        android:layout_weight="5"
+
+        android:fontFamily="@font/aldrich"
+        android:background="@drawable/eventbutton"
+        android:text="Winner List"
+        android:id="@+id/winnerList_eventDashboard"
+        />
+</LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

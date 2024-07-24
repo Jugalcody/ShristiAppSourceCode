@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".add_participant">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/stars"
+        android:id="@+id/addbg"
+        android:scaleType="centerCrop"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_title"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/slogo"
+            android:layout_margin="15dp"
+            android:layout_below="@id/appbar_home"
+            android:scaleType="centerCrop"
+            android:id="@+id/logo_home"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="@font/aldrich"
+            android:text="Shristi 2K24"
+            android:textColor="@color/white"
+
+            android:textSize="33sp" />
+    </LinearLayout>
+
+    <androidx.cardview.widget.CardView
+        android:layout_below="@+id/add_title"
+        android:layout_width="match_parent"
+        app:cardCornerRadius="5dp"
+        app:cardBackgroundColor="@color/transparent"
+        android:padding="10dp"
+        android:id="@+id/add_cardview"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:id="@+id/add_cardtitle"
+                android:padding="10dp"
+                android:textColor="#151515"
+                android:text="Select Individual/Group"
+                android:fontFamily="@font/aldrich"
+                />
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:id="@+id/add_radiocard"
+                android:layout_below="@id/add_cardtitle"
+                >
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Individual"
+                    android:id="@+id/add_individual_radio"
+                    android:layout_marginEnd="6dp"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="6dp"
+                    android:button="@color/white"
+                    android:padding="16dp"
+                    android:background="@drawable/register_selector_radiobutton"
+                    android:textColor="@drawable/register_text_color"
+                    android:elevation="4dp"
+                    android:textSize="16sp"
+                    />
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Team"
+                    android:id="@+id/add_team_radio"
+                    android:layout_marginEnd="6dp"
+                    android:layout_marginStart="6dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="6dp"
+                    android:button="@color/white"
+                    android:padding="16dp"
+                    android:background="@drawable/register_selector_radiobutton"
+                    android:textColor="@drawable/register_text_color"
+                    android:elevation="4dp"
+                    android:textSize="16sp"
+                    />
+            </RadioGroup>
+
+            <EditText
+                android:id="@+id/add_cardname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/add_radiocard"
+                android:visibility="gone"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/incharge_login"
+
+                android:hint="Enter Participant Name"
+                android:inputType="text"
+                android:maxLines="1"
+                android:textSize="17sp"
+                android:textColorHint="#C6C4C4"
+                android:padding="10dp"
+                android:textColor="@color/black" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:visibility="gone"
+                android:padding="10dp"
+
+                android:inputType="text"
+                android:textSize="17sp"
+                android:textColorHint="#C6C4C4"
+                android:maxLines="1"
+                android:hint="Enter College Name"
+                android:id="@+id/add_cardcollege"
+                android:layout_below="@id/add_cardname"
+                android:background="@drawable/incharge_login"
+                />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:visibility="gone"
+                android:layout_marginBottom="10dp"
+                android:padding="10dp"
+                android:inputType="phone"
+                android:maxLength="10"
+
+                android:textSize="17sp"
+                android:textColorHint="#C6C4C4"
+                android:maxLines="1"
+                android:hint="Enter phone No."
+                android:id="@+id/add_cardphone"
+                android:layout_below="@id/add_cardcollege"
+                android:background="@drawable/incharge_login"
+                />
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/add_cardll1"
+android:visibility="gone"
+    android:layout_marginTop="5dp"
+    android:layout_below="@id/add_cardphone"
+    android:orientation="horizontal"
+    android:weightSum="10"
+    >
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:text="Select Postition"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/aldrich"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:id="@+id/add_cardvalue1"
+        android:background="@color/white"
+        />
+
+
+    <Spinner
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:id="@+id/add_cardspinner1"
+        android:background="@drawable/incharge_login"
+        />
+</LinearLayout>
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:visibility="gone"
+                android:layout_below="@id/add_cardll1"
+                android:id="@+id/padd_progress"
+                />
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/padd_progress"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:visibility="gone"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/eventbutton"
+                android:backgroundTint="#D59B38"
+                android:fontFamily="@font/aldrich"
+                android:padding="10dp"
+                android:id="@+id/add_participant_but"
+                android:text="Submit"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/padd_progress"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:visibility="gone"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/eventbutton"
+                android:backgroundTint="#AA1919"
+                android:fontFamily="@font/aldrich"
+                android:padding="10dp"
+                android:id="@+id/delete_radiocard"
+                android:text="Delete"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

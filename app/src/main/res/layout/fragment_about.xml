@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="58dp"
+    tools:context=".AboutFragment">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/stars"
+        android:scaleType="centerCrop"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Shristi"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:padding="10dp"
+        android:id="@+id/titleabout"
+        android:fontFamily="@font/yearone"
+        />
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="30dp"
+    android:layout_below="@id/titleabout"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+        >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="Shristi is an annual event held at NERIST (North Eastern Regional Institute of Science and Technology) that serves as a platform for students to showcase their talents, creativity, and innovation. It is a vibrant gathering where students from various disciplines and regions converge to participate in a diverse range of activities and competitions.
+The event encompasses a wide array of activities, including robotics competitions like Battlebots, where students design and build robots to compete against each other in thrilling battles. Additionally, there are Model United Nations simulations, providing a forum for students to engage in diplomacy and debate on global issues.
+
+Shristi also features Hackathons, intense events where participants collaborate to solve real-world problems within a limited timeframe, leveraging their technical skills and creativity. Robotics enthusiasts can explore cutting-edge technologies through competitions involving Humanoids and pneumatic rockets, pushing the boundaries of innovation in the field.
+
+Beyond competitions, Shristi offers opportunities for learning and networking. Students have the chance to attend talks by industry leaders, participate in workshops, and develop essential skills such as teamwork, communication, and leadership.
+
+Overall, Shristi is not just an event but a vibrant community where students come together to learn, collaborate, and showcase their talents, ultimately contributing to the culture of innovation and creativity at NERIST."
+        android:textColor="#130B0B"
+        android:textSize="19sp" />
+    </RelativeLayout>
+</ScrollView>
+</RelativeLayout>
+</FrameLayout>

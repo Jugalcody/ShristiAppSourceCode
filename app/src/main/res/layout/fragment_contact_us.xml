@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginTop="58dp"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:layout_marginBottom="10dp"
+    android:paddingBottom="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ContactUsFragment">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/contact_title"
+        android:background="@drawable/galaxy"
+        app:cardElevation="2dp"
+        android:layout_margin="5dp"
+        >
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:lottie_rawRes="@raw/contact"
+            app:lottie_loop="true"
+            app:lottie_autoPlay="true"
+            />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/contact_title"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="10dp"
+        android:id="@+id/contact_txt1"
+        android:layout_marginBottom="8dp"
+        android:text="For any support or issue with the app , don't hesitate to reach out to us"
+        android:textColor="@color/white"
+        android:fontFamily="@font/yearone"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact Us"
+        android:textSize="20sp"
+        android:textColor="#5EADED"
+        android:padding="5dp"
+        android:id="@+id/contact_txt12"
+        android:fontFamily="@font/gugi"
+        android:layout_below="@id/contact_txt1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jugal K. Das"
+        android:layout_below="@id/contact_txt12"
+        android:textColor="#FAF8F8"
+        android:textSize="17sp"
+        android:id="@+id/contactjkd"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(Developer)"
+        android:layout_below="@id/contactjkd"
+        android:textColor="#FAF8F8"
+        android:textSize="17sp"
+        android:id="@+id/contactjkd2"
+        android:layout_marginTop="1dp"
+        android:layout_centerHorizontal="true"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="3dp"
+        android:id="@+id/jllcontact"
+        android:layout_below="@id/contactjkd2"
+        android:layout_centerHorizontal="true"
+        android:weightSum="10"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+
+            android:layout_gravity="center"
+            android:src="@drawable/baseline_call_24"
+            />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+916001188123"
+        android:id="@+id/jkdcontact"
+        android:layout_below="@id/contactjkd"
+        android:textColor="#FAF8F8"
+        android:fontFamily="@font/aldrich"
+        android:layout_margin="1dp"
+        android:textSize="15sp"
+        android:layout_centerHorizontal="true"
+        />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subhu Richo"
+        android:layout_below="@id/jllcontact"
+        android:textColor="#FAF8F8"
+        android:textSize="17sp"
+        android:id="@+id/contactsubhu"
+        android:layout_marginTop="25dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(Designer)"
+        android:layout_below="@id/contactsubhu"
+        android:textColor="#FAF8F8"
+        android:textSize="17sp"
+        android:id="@+id/contactsubhu2"
+        android:layout_marginTop="1dp"
+        android:layout_centerHorizontal="true"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="3dp"
+        android:id="@+id/subucontact"
+        android:layout_below="@id/contactsubhu2"
+        android:layout_centerHorizontal="true"
+        android:weightSum="10"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+
+            android:layout_gravity="center"
+            android:src="@drawable/baseline_call_24"
+            />
+
+        <TextView
+            android:id="@+id/subhucontact"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_below="@id/contactjkd"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="1dp"
+            android:fontFamily="@font/aldrich"
+            android:text="+916009312408"
+            android:textColor="#FAF8F8"
+            android:layout_marginBottom="20dp"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="15dp"
+    android:paddingTop="10dp"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:weightSum="10"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:paddingTop="5dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:id="@+id/memberdesgin_img1"
+            android:background="@color/white"
+            app:shapeAppearanceOverlay="@style/roundedImageview"
+            android:padding="3dp"
+            android:scaleType="centerCrop"
+            app:strokeColor="@color/black"
+            app:strokeWidth="2dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/textcolor"
+            android:layout_gravity="center"
+            android:id="@+id/memberdesgin_img1txt1"
+            android:text="Madhusudhan Misra"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/textcolor"
+            android:id="@+id/memberdesgin_img1txt2"
+            android:layout_gravity="center"
+            android:text="Assoc. Prof. ECE"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:id="@+id/memberdesgin_img1txt3"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/textcolor"
+            android:text="Chief Coordinator"
+
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:paddingTop="5dp"
+        android:orientation="vertical"
+        >
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:id="@+id/memberdesgin_img2"
+            android:background="@color/white"
+            app:shapeAppearanceOverlay="@style/roundedImageview"
+            android:padding="3dp"
+            android:scaleType="centerCrop"
+            app:strokeColor="@color/black"
+            app:strokeWidth="2dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/textcolor"
+            android:layout_gravity="center"
+            android:id="@+id/memberdesgin_img2txt1"
+            android:text="Madhusudhan Misra"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/textcolor"
+
+            android:id="@+id/memberdesgin_img2txt2"
+            android:layout_gravity="center"
+            android:text="Assoc. Prof. ECE"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:id="@+id/memberdesgin_img2txt3"
+            android:layout_gravity="center"
+            android:textColor="@color/textcolor"
+            android:textStyle="bold"
+            android:text="Chief Coordinator"
+
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

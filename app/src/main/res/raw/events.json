@@ -1,0 +1,6435 @@
+{
+"users":[{
+  "_id": {
+    "$oid": "660d5b7715a1c739a242b6a2"
+  },
+  "name": "Blind mode",
+  "date": "11/04/2024",
+  "time": "09:00",
+  "venue": "Programming Lab",
+  "club": {
+    "$oid": "660d59e215a1c739a242b698"
+  },
+  "clubName": "Computer Science Engineering",
+  "image": "https://llm1041430350.blob.core.windows.net/shristi-images/344a7a44-1de7-4bd9-b876-8c14674267d94.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+  "desc": "<ul><li><em>Individual event.</em></li><li><em> Picture this: you, a blank screen, and 30 minutes on the clock. In this exhilarating challenge, participants are tasked with solving a complex problem with their screen completely blacked out!</em></li><li><strong><em><u> Rules: </u></em></strong><em> a)A problem needs to be solved with the screen not visible to the programmer .</em></li></ul><p><em> b)Participants can choose any programming language according to their convenience.</em></p><p><em> c) Each participants will be given 30 minutes.</em></p><p><em> d) The score will be given based on the accuracy, code readability and efficiency.</em></p><p><br></p><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 3000</em></strong></p><p><strong><em> 2nd Prize - 2000</em></strong></p><p><strong><em> 3rd Prize - 1000</em></strong></p>",
+  "user": [
+    {
+      "$oid": "6611e6bc9987e0fd092a386a"
+    },
+    {
+      "$oid": "6611ff889987e0fd092a3ce7"
+    },
+    {
+      "$oid": "661232ec9987e0fd092a691a"
+    },
+    {
+      "$oid": "66120fb69987e0fd092a43e3"
+    },
+    {
+      "$oid": "6611f0159987e0fd092a3ad0"
+    },
+    {
+      "$oid": "66129428d1cfdcb47289ef2e"
+    },
+    {
+      "$oid": "661294f6d1cfdcb47289f067"
+    },
+    {
+      "$oid": "6612953cd1cfdcb47289f11a"
+    },
+    {
+      "$oid": "66129edfd1cfdcb4728a034f"
+    },
+    {
+      "$oid": "66129bb0d1cfdcb47289fe31"
+    },
+    {
+      "$oid": "6612cb81314c28086bd14138"
+    },
+    {
+      "$oid": "6613aa1a6b9a658c1ce6b9d8"
+    },
+    {
+      "$oid": "6611ec239987e0fd092a3a31"
+    },
+    {
+      "$oid": "6613e372305e1928356611e7"
+    },
+    {
+      "$oid": "66137908de935f6f40be71bb"
+    },
+    {
+      "$oid": "6610a9ca8e4beb9f88f29409"
+    },
+    {
+      "$oid": "661416aedd2cfb05ba7fb1cf"
+    },
+    {
+      "$oid": "6616624407241351dc9872fd"
+    },
+    {
+      "$oid": "6616be584e3dc8e578cb45e1"
+    }
+  ],
+  "isMainEvent": true,
+  "isOpen": true,
+  "createdBy": {
+    "$oid": "660ae185ee9e68bfcccc507f"
+  },
+  "isPaid": false,
+  "priceO": "0",
+  "priceN": "0",
+  "disabled": false,
+  "createdAt": {
+    "$date": "2024-04-03T13:36:55.769Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T16:29:40.883Z"
+  },
+  "__v": 19
+},
+  {
+    "_id": {
+      "$oid": "660d5bfe15a1c739a242b6ac"
+    },
+    "name": "Let's Assemble",
+    "date": "11/04/2024",
+    "time": "11:00",
+    "venue": "Hardware Lab",
+    "club": {
+      "$oid": "660d59e215a1c739a242b698"
+    },
+    "clubName": "Computer Science Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/090a390a-a3e4-4df6-98aa-0c96b5e7da293.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>Individual event</em></li><li><em>Can you transform a heap of components into a fully functional CPU masterpiece before the clock runs out? It isn't just an event; it's a symphony of precision, and speed. </em></li><li><strong><em><u>Rules:</u></em></strong><em> a)No coding is required .</em></li></ul><p><em> b)Participants need to assemble the CPU given its components at the fastest possible way to make it functional .</em></p><p><em> c)Each participants will be given 5 minutes.</em></p><p><br></p><p><em> </em><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 3000</em></strong></p><p><strong><em> 2nd Prize - 2000</em></strong></p><p><strong><em> 3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "661109578e4beb9f88f29db6"
+      },
+      {
+        "$oid": "6611b0ef9987e0fd092a2d08"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "66121b719987e0fd092a52bd"
+      },
+      {
+        "$oid": "661227729987e0fd092a5eda"
+      },
+      {
+        "$oid": "66122d7b9987e0fd092a642e"
+      },
+      {
+        "$oid": "66122d2d9987e0fd092a63fe"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "66124913b7e65eeda24bfc5f"
+      },
+      {
+        "$oid": "66125636b7e65eeda24c12d9"
+      },
+      {
+        "$oid": "6612543eb7e65eeda24c0fca"
+      },
+      {
+        "$oid": "661262b6276266f14cb3ab21"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "6612a179d1cfdcb4728a05d4"
+      },
+      {
+        "$oid": "6612a410d1cfdcb4728a08ab"
+      },
+      {
+        "$oid": "6612bee4d1cfdcb4728a3200"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66120b2b9987e0fd092a4172"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "6613aa1a6b9a658c1ce6b9d8"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "6611ec239987e0fd092a3a31"
+      },
+      {
+        "$oid": "6613e372305e1928356611e7"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "6614150add2cfb05ba7fb0ac"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "661420dcdd2cfb05ba7fb815"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661571a1b6987a199458d541"
+      },
+      {
+        "$oid": "66157404b6987a199458d754"
+      },
+      {
+        "$oid": "6615750eb6987a199458d859"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6613b64c841058706f5e6d4f"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "66158299c0e41da6a40d21ee"
+      },
+      {
+        "$oid": "661218629987e0fd092a4f38"
+      },
+      {
+        "$oid": "66165b19aa95803116ec469c"
+      },
+      {
+        "$oid": "66165ceb07241351dc9870da"
+      },
+      {
+        "$oid": "6616624407241351dc9872fd"
+      },
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "66157a57014ff3124a239f7c"
+      },
+      {
+        "$oid": "661692720165ce83b4810fbb"
+      },
+      {
+        "$oid": "6616be584e3dc8e578cb45e1"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "66137ac7de935f6f40be7213"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T13:39:10.277Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:45:04.600Z"
+    },
+    "__v": 54
+  },
+  {
+    "_id": {
+      "$oid": "660d5e2915a1c739a242b6c1"
+    },
+    "name": "Coder's Showdown",
+    "date": "13/04/2024",
+    "time": "09:00",
+    "venue": "Programming Lab",
+    "club": {
+      "$oid": "660d59e215a1c739a242b698"
+    },
+    "clubName": "Computer Science Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/6db36746-aa0a-4541-a6f4-da311dff0f305.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>Individual event</em></li><li><em> Get ready to showcase your coding prowess in \"Coder’s showdown\" - the ultimate individual competitive coding event where every line of code counts.</em></li><li><strong><em><u> Rules:</u></em></strong><em> a)The choice of programming language is not restricted .</em></li></ul><p><em> b)Participants will be provided with the coding platform and problems at the start of the event.</em></p><p><em> c) Speed is the only key to break the tie.</em></p><p><br></p><p><em> </em><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 5000</em></strong></p><p><strong><em> 2nd Prize - 3000</em></strong></p><p><strong><em> 3rd Prize - 2000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "6612a179d1cfdcb4728a05d4"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6611ec239987e0fd092a3a31"
+      },
+      {
+        "$oid": "6613e372305e1928356611e7"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "66137908de935f6f40be71bb"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6616624407241351dc9872fd"
+      },
+      {
+        "$oid": "661692720165ce83b4810fbb"
+      },
+      {
+        "$oid": "6616be584e3dc8e578cb45e1"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T13:48:25.427Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:29:43.706Z"
+    },
+    "__v": 18
+  },
+  {
+    "_id": {
+      "$oid": "660d610815a1c739a242b6d2"
+    },
+    "name": "Hack Shristi",
+    "date": "12/4/2024",
+    "time": "09:00",
+    "venue": "Degree Block(Room no to be notified)",
+    "club": {
+      "$oid": "660d59e215a1c739a242b698"
+    },
+    "clubName": "Computer Science Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/ae4195f7-d68e-4583-b306-8830f0ff9c49CS.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>Unleash your innovation in the thrilling CodeShristi 2k24 Hackathon, full-day extravaganza where creativity meets technology! We welcome you to leverage the latest AI tools and technologies in crafting groundbreaking solutions. Feel the adrenaline as the clock ticks away! Adaptability, innovation, and quick thinking will be your allies in this race against time. </em></li><li><strong><em><u>Rules:</u></em></strong><em> a)Please bring your own laptop .</em></li></ul><p><em> b)The problem statement will be given on the day of event.</em></p><p><em> c) It can be played either individually or collaboratively as a team (max 5 members) </em></p><p><em> d)Open to use AI tools.</em></p><p><em> ( Additional rules will be notified if required.)</em></p><p><br></p><p><em> </em><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 10,000</em></strong></p><p><strong><em> 2nd Prize - 5000</em></strong></p><p><strong><em> 3rd Prize - 2000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "66127ec1276266f14cb3bd99"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612a179d1cfdcb4728a05d4"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "6612bee4d1cfdcb4728a3200"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "661412d5dd2cfb05ba7faece"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "66157404b6987a199458d754"
+      },
+      {
+        "$oid": "6616624407241351dc9872fd"
+      },
+      {
+        "$oid": "6616be584e3dc8e578cb45e1"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T14:00:40.828Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:29:45.880Z"
+    },
+    "__v": 18
+  },
+  {
+    "_id": {
+      "$oid": "660d619415a1c739a242b6dc"
+    },
+    "name": "Algo Craft Challenge",
+    "date": "13/4/2024",
+    "time": "12:00",
+    "venue": "Programming Lab",
+    "club": {
+      "$oid": "660d59e215a1c739a242b698"
+    },
+    "clubName": "Computer Science Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/b230e7de-08f3-4884-b411-f823c4e1b9306.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>Individual event.</em></li><li><em> Unlock the world of algorithms in \"Algo Master\" – where the pen is mightier than the code!</em></li><li><em> All you need is just your analytical prowess and strategic thinking. </em></li><li><em><u>Rules</u>: a) No coding required Each participants will be given 30 minutes </em></li></ul><p><em> b )Problem statement will be given on the day of event Pen and Paper will be provided .</em></p><p><em> c)The score will be given based on the logic, conciseness and submission time.</em></p><p><br></p><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 3000</em></strong></p><p><strong><em> 2nd Prize - 2000</em></strong></p><p><strong><em> 3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "66124913b7e65eeda24bfc5f"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "6612953cd1cfdcb47289f11a"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "6612a179d1cfdcb4728a05d4"
+      },
+      {
+        "$oid": "661224269987e0fd092a5ae7"
+      },
+      {
+        "$oid": "6612bee4d1cfdcb4728a3200"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6613280c3653f9f2b6447659"
+      },
+      {
+        "$oid": "6613aa1a6b9a658c1ce6b9d8"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "66137908de935f6f40be71bb"
+      },
+      {
+        "$oid": "6616624407241351dc9872fd"
+      },
+      {
+        "$oid": "6616be584e3dc8e578cb45e1"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T14:03:00.382Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:29:48.604Z"
+    },
+    "__v": 26
+  },
+  {
+    "_id": {
+      "$oid": "660d643e15a1c739a242b6f3"
+    },
+    "name": "Eureka (Start -up NERIST Initiative)",
+    "date": "11/4/2024",
+    "time": "11:00",
+    "venue": "ET Cell",
+    "club": {
+      "$oid": "660d596215a1c739a242b684"
+    },
+    "clubName": "Centre for Management Studies",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/44b8a8e7-7f94-4a27-91c5-788abe03306f4.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>Both individual and group event .</em></li><li><em>A glorious chance to pitch start-up ideas, no matter how small. </em></li><li><em>A platform to grab opportunity of a kind. </em></li><li><em>Under the Reputed incubation leaders support. </em></li></ul><p><em> </em></p><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 10,000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "6612b6dbd1cfdcb4728a2975"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "6612d7cc314c28086bd14f10"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66138ed2418077513efb9825"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "6613e9dc72183d74c5df7fa0"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6611677c5147e717cde15f21"
+      },
+      {
+        "$oid": "661583f2dacf3ad709fbc774"
+      },
+      {
+        "$oid": "6615896ba9b348622ab80217"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "661384d2de935f6f40be762f"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T14:14:22.796Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T11:33:14.919Z"
+    },
+    "__v": 36
+  },
+  {
+    "_id": {
+      "$oid": "660d651815a1c739a242b6fd"
+    },
+    "name": "Screw You",
+    "date": "12/4/2024",
+    "time": "10:00",
+    "venue": "CMS Room",
+    "club": {
+      "$oid": "660d596215a1c739a242b684"
+    },
+    "clubName": "Centre for Management Studies",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/2d9b9a0f-f5eb-4650-8b46-12fd708dc2ec2.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>It's a individual game. </em></li><li><em>There will be only one round. </em></li><li><em>It's a game of critical arrangement of puzzles, solving the given pictorial riddles, within a given time frame. </em></li><li><em>Marking will be evaluated by a judge.</em></li></ul><p><br></p><p><em> </em><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 4000</em></strong></p><p><strong><em> 2nd Prize - 2000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6610e2558e4beb9f88f29a78"
+      },
+      {
+        "$oid": "661116845147e717cde1536d"
+      },
+      {
+        "$oid": "6611cd079987e0fd092a327e"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "6611ebff9987e0fd092a3a26"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "66120b2b9987e0fd092a4172"
+      },
+      {
+        "$oid": "66121b7e9987e0fd092a52c9"
+      },
+      {
+        "$oid": "66121e4f9987e0fd092a55d8"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "6612234d9987e0fd092a59c0"
+      },
+      {
+        "$oid": "66122b9b9987e0fd092a62d6"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "6612265b9987e0fd092a5d90"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "66124749b7e65eeda24bf9e3"
+      },
+      {
+        "$oid": "66124377b7e65eeda24bf3f5"
+      },
+      {
+        "$oid": "66124c42b7e65eeda24c027a"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "66124c62b7e65eeda24c02ae"
+      },
+      {
+        "$oid": "66125007b7e65eeda24c093c"
+      },
+      {
+        "$oid": "66124790b7e65eeda24bfa51"
+      },
+      {
+        "$oid": "66125200b7e65eeda24c0c1a"
+      },
+      {
+        "$oid": "661219099987e0fd092a506a"
+      },
+      {
+        "$oid": "66124b42b7e65eeda24c00b2"
+      },
+      {
+        "$oid": "6612573eb7e65eeda24c1561"
+      },
+      {
+        "$oid": "66125ae3b7e65eeda24c1b80"
+      },
+      {
+        "$oid": "6611677c5147e717cde15f21"
+      },
+      {
+        "$oid": "6612604d276266f14cb3a8e3"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "661292c7d1cfdcb47289ed6c"
+      },
+      {
+        "$oid": "6612953cd1cfdcb47289f11a"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "66129686d1cfdcb47289f3df"
+      },
+      {
+        "$oid": "66128bfed1cfdcb47289e54b"
+      },
+      {
+        "$oid": "66122eb59987e0fd092a6567"
+      },
+      {
+        "$oid": "66129875d1cfdcb47289f81e"
+      },
+      {
+        "$oid": "6612a7e0d1cfdcb4728a0ddf"
+      },
+      {
+        "$oid": "66125829b7e65eeda24c1726"
+      },
+      {
+        "$oid": "6612a707d1cfdcb4728a0c65"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "66121a3d9987e0fd092a51d9"
+      },
+      {
+        "$oid": "6612ae45d1cfdcb4728a1cb7"
+      },
+      {
+        "$oid": "6612a410d1cfdcb4728a08ab"
+      },
+      {
+        "$oid": "661224269987e0fd092a5ae7"
+      },
+      {
+        "$oid": "661271e3276266f14cb3b88e"
+      },
+      {
+        "$oid": "6612c111d1cfdcb4728a34d0"
+      },
+      {
+        "$oid": "66125a62b7e65eeda24c1aa2"
+      },
+      {
+        "$oid": "6612af9fd1cfdcb4728a2007"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "6612cd82314c28086bd144ea"
+      },
+      {
+        "$oid": "661225779987e0fd092a5ca5"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612d7cc314c28086bd14f10"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "661274c5276266f14cb3ba0c"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "6612ab86d1cfdcb4728a1594"
+      },
+      {
+        "$oid": "6613280c3653f9f2b6447659"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "6612eea5ebab6821c9f6947a"
+      },
+      {
+        "$oid": "661392ab0ed43d26d35f23a3"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "66122f2b9987e0fd092a65c2"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "6612bcced1cfdcb4728a2fdc"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "6613a691b30c8e77b99480a2"
+      },
+      {
+        "$oid": "6611ec239987e0fd092a3a31"
+      },
+      {
+        "$oid": "6613e9ff72183d74c5df7fae"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "6613ed1372183d74c5df8099"
+      },
+      {
+        "$oid": "6613f36b11b59497dcf79be4"
+      },
+      {
+        "$oid": "6612ad2ed1cfdcb4728a19fd"
+      },
+      {
+        "$oid": "66128b46d1cfdcb47289e427"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "661436dc77cd2ff0d3353954"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "6612e33c34a009246095b623"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "6614ce58a7101ed5369d70db"
+      },
+      {
+        "$oid": "66128a04d1cfdcb47289e23c"
+      },
+      {
+        "$oid": "66128a33d1cfdcb47289e273"
+      },
+      {
+        "$oid": "6614ea21af93500a69066a60"
+      },
+      {
+        "$oid": "66128a16d1cfdcb47289e24e"
+      },
+      {
+        "$oid": "6614f721af93500a69066e9d"
+      },
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "6612ae61d1cfdcb4728a1cf6"
+      },
+      {
+        "$oid": "66157be8014ff3124a23a08c"
+      },
+      {
+        "$oid": "66158244c0e41da6a40d21c3"
+      },
+      {
+        "$oid": "66158859a9b348622ab8011a"
+      },
+      {
+        "$oid": "661588dda9b348622ab8016e"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "66139e13b30c8e77b9947d86"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "6614319fa2c68cad30b0755f"
+      },
+      {
+        "$oid": "66122b5b9987e0fd092a628b"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "661231229987e0fd092a678b"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "6616b251a181942ea8d40b38"
+      },
+      {
+        "$oid": "66138accde935f6f40be78b5"
+      },
+      {
+        "$oid": "6612b6c3d1cfdcb4728a2951"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T14:18:00.179Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:45:22.434Z"
+    },
+    "__v": 125
+  },
+  {
+    "_id": {
+      "$oid": "660d65c315a1c739a242b707"
+    },
+    "name": "Intelligent Investor",
+    "date": "12/4/2024",
+    "time": "15:00",
+    "venue": "CMS Room",
+    "club": {
+      "$oid": "660d596215a1c739a242b684"
+    },
+    "clubName": "Centre for Management Studies",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/8b3acaf7-b10c-4c8e-934a-1ff0f806f90a2.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>It's an individual event. </em></li><li><em>There will be only one stage to complete. </em></li><li><em>Successful investing is about managing risk, not avoiding it.</em></li><li><em>\" You will be given a certain amount of money which has to be invested in various financial instruments (which will be listed), while keeping in mind once expenses, savings, and revenue. An ultimate on-field experience in the Stock Market.</em></li></ul><p><br></p><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 4000</em></strong></p><p><strong><em> 2nd Prize - 2000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6611ebff9987e0fd092a3a26"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "661215ea9987e0fd092a4a60"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "661261de276266f14cb3aa63"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "66128b5dd1cfdcb47289e43a"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "6612b6dbd1cfdcb4728a2975"
+      },
+      {
+        "$oid": "6612af9fd1cfdcb4728a2007"
+      },
+      {
+        "$oid": "66125a62b7e65eeda24c1aa2"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612e6a9ebab6821c9f690af"
+      },
+      {
+        "$oid": "6613280c3653f9f2b6447659"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66138ed2418077513efb9825"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "6613f36b11b59497dcf79be4"
+      },
+      {
+        "$oid": "66140e1effa96db6e7ccbe01"
+      },
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "66128107d1cfdcb47289de87"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6614319fa2c68cad30b0755f"
+      },
+      {
+        "$oid": "6614ca39a7101ed5369d6ffa"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "66124377b7e65eeda24bf3f5"
+      },
+      {
+        "$oid": "661583f2dacf3ad709fbc774"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "66162335983cbf2e37e8bc82"
+      },
+      {
+        "$oid": "66161bc05ee6c5fb496d4a15"
+      },
+      {
+        "$oid": "66128b46d1cfdcb47289e427"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "661384d2de935f6f40be762f"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "661231229987e0fd092a678b"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T14:20:51.539Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T13:41:42.507Z"
+    },
+    "__v": 48
+  },
+  {
+    "_id": {
+      "$oid": "660d665315a1c739a242b711"
+    },
+    "name": "The Summit (Echo of Minds)",
+    "date": "13/4/2024",
+    "time": "09:00",
+    "venue": "CMS Room",
+    "club": {
+      "$oid": "660d596215a1c739a242b684"
+    },
+    "clubName": "Centre for Management Studies",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/1baf92ab-dc9d-488c-a62f-6d61ce1355f51.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><em>Any random global economic issue of choice to be brought into the spectrum of youths. </em></p><p><strong><em><u>Rules:</u></em></strong><em> a) Participants must present his/her take on the subject selected with originality, eloquence, humour, and clarity. </em></p><p><em> b) Quality of research methods and presentation will be accordingly judged.&nbsp;</em></p><p><br></p><p><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 4000</em></strong></p><p><strong><em>2nd Prize - 2000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6611ebff9987e0fd092a3a26"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "6612953cd1cfdcb47289f11a"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "661213739987e0fd092a470b"
+      },
+      {
+        "$oid": "6612c111d1cfdcb4728a34d0"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "661583f2dacf3ad709fbc774"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "66161bc05ee6c5fb496d4a15"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "661231229987e0fd092a678b"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T14:23:15.042Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T13:43:55.821Z"
+    },
+    "__v": 23
+  },
+  {
+    "_id": {
+      "$oid": "660d66b615a1c739a242b71b"
+    },
+    "name": "Hijack",
+    "date": "13/4/2024",
+    "time": "13:00",
+    "venue": "CMS Room",
+    "club": {
+      "$oid": "660d596215a1c739a242b684"
+    },
+    "clubName": "Centre for Management Studies",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/6345aab6-23eb-46a7-ab45-5c7dbe41d0701.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><em>It's a team game where you have to complete a given number of tasks with your team as soon as possible. The faster you complete, the closer you get to the winning prize.</em></p><p><strong><em><u>RULES</u> :</em></strong></p><p><em> 1) There will be 5 stages to complete the game.</em></p><p><em> 2) Teams must be a minimum of 3 or maximum 5.</em></p><p><br></p><p><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 4000</em></strong></p><p><strong><em>2nd Prize - 2000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "661116845147e717cde1536d"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "6611ebff9987e0fd092a3a26"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "6612187c9987e0fd092a4f61"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "66122b9b9987e0fd092a62d6"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "66124790b7e65eeda24bfa51"
+      },
+      {
+        "$oid": "66121b7e9987e0fd092a52c9"
+      },
+      {
+        "$oid": "6611677c5147e717cde15f21"
+      },
+      {
+        "$oid": "66124598b7e65eeda24bf769"
+      },
+      {
+        "$oid": "661261de276266f14cb3aa63"
+      },
+      {
+        "$oid": "661274c5276266f14cb3ba0c"
+      },
+      {
+        "$oid": "661225359987e0fd092a5c47"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "661292c7d1cfdcb47289ed6c"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66129686d1cfdcb47289f3df"
+      },
+      {
+        "$oid": "66128bfed1cfdcb47289e54b"
+      },
+      {
+        "$oid": "66129875d1cfdcb47289f81e"
+      },
+      {
+        "$oid": "66122eb59987e0fd092a6567"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "66121a3d9987e0fd092a51d9"
+      },
+      {
+        "$oid": "6612a3fed1cfdcb4728a0899"
+      },
+      {
+        "$oid": "6612a410d1cfdcb4728a08ab"
+      },
+      {
+        "$oid": "6612b6dbd1cfdcb4728a2975"
+      },
+      {
+        "$oid": "661271e3276266f14cb3b88e"
+      },
+      {
+        "$oid": "6612c111d1cfdcb4728a34d0"
+      },
+      {
+        "$oid": "6612aa4ad1cfdcb4728a11f6"
+      },
+      {
+        "$oid": "66125a62b7e65eeda24c1aa2"
+      },
+      {
+        "$oid": "6612af9fd1cfdcb4728a2007"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "661225779987e0fd092a5ca5"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "6612a09ed1cfdcb4728a04ca"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612e33c34a009246095b623"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "6612ab86d1cfdcb4728a1594"
+      },
+      {
+        "$oid": "66138ed2418077513efb9825"
+      },
+      {
+        "$oid": "6612eea5ebab6821c9f6947a"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "6613912b418077513efb9988"
+      },
+      {
+        "$oid": "66125668b7e65eeda24c1354"
+      },
+      {
+        "$oid": "661392ab0ed43d26d35f23a3"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "66122f2b9987e0fd092a65c2"
+      },
+      {
+        "$oid": "66125200b7e65eeda24c0c1a"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "6612bcced1cfdcb4728a2fdc"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "66125007b7e65eeda24c093c"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "6612cd82314c28086bd144ea"
+      },
+      {
+        "$oid": "661212bf9987e0fd092a4648"
+      },
+      {
+        "$oid": "66128b46d1cfdcb47289e427"
+      },
+      {
+        "$oid": "66140f12ffa96db6e7ccbec0"
+      },
+      {
+        "$oid": "661423dd20e9302f6b6b2730"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66142b76c1c33c94e7cd0a9e"
+      },
+      {
+        "$oid": "661436dc77cd2ff0d3353954"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "66124671b7e65eeda24bf8ae"
+      },
+      {
+        "$oid": "66143af777cd2ff0d3353bac"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "6612abd0d1cfdcb4728a1633"
+      },
+      {
+        "$oid": "6614ca39a7101ed5369d6ffa"
+      },
+      {
+        "$oid": "6614ce58a7101ed5369d70db"
+      },
+      {
+        "$oid": "6614ce49a7101ed5369d70d3"
+      },
+      {
+        "$oid": "6614e862af93500a690669e1"
+      },
+      {
+        "$oid": "6614f721af93500a69066e9d"
+      },
+      {
+        "$oid": "66124c62b7e65eeda24c02ae"
+      },
+      {
+        "$oid": "661247bfb7e65eeda24bfa8a"
+      },
+      {
+        "$oid": "66156ce2b6987a199458d3b3"
+      },
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "661571a1b6987a199458d541"
+      },
+      {
+        "$oid": "661227729987e0fd092a5eda"
+      },
+      {
+        "$oid": "6612433eb7e65eeda24bf3b6"
+      },
+      {
+        "$oid": "66157be8014ff3124a23a08c"
+      },
+      {
+        "$oid": "66158859a9b348622ab8011a"
+      },
+      {
+        "$oid": "6615896ba9b348622ab80217"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "66122b5b9987e0fd092a628b"
+      },
+      {
+        "$oid": "66127c96276266f14cb3bc72"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "66161b6d5ee6c5fb496d49eb"
+      },
+      {
+        "$oid": "66139e13b30c8e77b9947d86"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "6612f004ebab6821c9f69578"
+      },
+      {
+        "$oid": "661180569987e0fd092a226a"
+      },
+      {
+        "$oid": "66128b5dd1cfdcb47289e43a"
+      },
+      {
+        "$oid": "6616b251a181942ea8d40b38"
+      },
+      {
+        "$oid": "661588dda9b348622ab8016e"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T14:24:54.189Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T15:55:07.856Z"
+    },
+    "__v": 119
+  },
+  {
+    "_id": {
+      "$oid": "660d7856540df4916a14e0ca"
+    },
+    "name": "CAD craftmanship : Designing Dream Homes",
+    "date": "11/04/2024",
+    "time": "09:00",
+    "venue": "Room no 8",
+    "club": {
+      "$oid": "660d584215a1c739a242b667"
+    },
+    "clubName": "Civil Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/cab6c114-d0ff-4191-9c5d-9f9a3f3a8def3.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><strong><em>Solo event.</em></strong></li></ul><p><em> To design a Plan, elevation and section of a house using AutoCad.</em></p><p><strong><em><u> Rules:</u></em></strong></p><p><em> i. Open for all departments.</em></p><p><em> ii. Participants are not allowed to carry any Phone/pre-made drawings; those found doing so will be disqualified. </em></p><p><em>iii. There should not be any internet connection in your Device.</em></p><p><strong><em><u> PRIZE MONEY</u></em></strong></p><p><strong> <em>1st Prize - 3500</em></strong></p><p><strong><em> 2nd Prize - 2500﻿</em></strong></p><p><strong><em> 3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "660ede90470feecace8b41a7"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6609709a5dfe52e400154f20"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "661224269987e0fd092a5ae7"
+      },
+      {
+        "$oid": "66124c42b7e65eeda24c027a"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "661265c2276266f14cb3aed6"
+      },
+      {
+        "$oid": "6612ab86d1cfdcb4728a1594"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612aed5d1cfdcb4728a1e22"
+      },
+      {
+        "$oid": "6612b5c5d1cfdcb4728a27d9"
+      },
+      {
+        "$oid": "6612d32b314c28086bd149b8"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612f004ebab6821c9f69578"
+      },
+      {
+        "$oid": "661373b4de935f6f40be6ee0"
+      },
+      {
+        "$oid": "66139e13b30c8e77b9947d86"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6613ae9b89e3e7d7dd1f873e"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66126d39276266f14cb3b534"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "66141de2dd2cfb05ba7fb603"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "6612ae61d1cfdcb4728a1cf6"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T15:40:06.165Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T07:07:47.189Z"
+    },
+    "__v": 28
+  },
+  {
+    "_id": {
+      "$oid": "660d79e9540df4916a14e100"
+    },
+    "name": "Know Your Earth: Play with Soil",
+    "date": "12/4/2024",
+    "time": "09:00",
+    "venue": "Geotech Lab",
+    "club": {
+      "$oid": "660d584215a1c739a242b667"
+    },
+    "clubName": "Civil Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/78de7678-8cb2-4579-995e-99dc224d0c7d4.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><strong><em>(Only for Civil Department)</em></strong></p><p><em>Participants have to determine an index property of soil that will be asked to find on the event day</em></p><p><strong><em><u>Rules:</u></em></strong></p><p><em> i .2-3 members each group are allowed.</em></p><p><em> ii . Assessment criteria will be based on the Number of readings taken, calculation, and the explanation to the related concept.</em></p><p><strong><em><u> PRIZE MONEY</u></em></strong></p><p><strong><em> 1st Prize - 3500</em></strong></p><p><strong><em> 2nd Prize - 2500﻿</em></strong></p><p><strong><em> 3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6609709a5dfe52e400154f20"
+      },
+      {
+        "$oid": "6612b355d1cfdcb4728a250d"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "6612ab86d1cfdcb4728a1594"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612eea5ebab6821c9f6947a"
+      },
+      {
+        "$oid": "6612f004ebab6821c9f69578"
+      },
+      {
+        "$oid": "6612d32b314c28086bd149b8"
+      },
+      {
+        "$oid": "6612140d9987e0fd092a478c"
+      },
+      {
+        "$oid": "66139e13b30c8e77b9947d86"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "66141249dd2cfb05ba7fae54"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "66161650ba87116f8974928f"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": false,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T15:46:49.740Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T10:10:36.166Z"
+    },
+    "__v": 22
+  },
+  {
+    "_id": {
+      "$oid": "660d7b55540df4916a14e10a"
+    },
+    "name": "Waste to Best: Being a Scientist",
+    "date": "12/4/2024",
+    "time": "15:00",
+    "venue": "Geotech Lab 1",
+    "club": {
+      "$oid": "660d584215a1c739a242b667"
+    },
+    "clubName": "Civil Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/0301018b-eaa3-44e1-9bcf-d24bdea64b155.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em> To increase the strength of soil using provided waste materials like egg shell, fly ash, lime, plastic, toothpick, cement in a proper proportion.</em></li></ul><p><em>        </em><strong><em><u> Rules</u></em></strong><em>:</em></p><p><em>            i. Open for all departments.</em></p><p><em>            ii. 2-3 members are allowed.</em></p><p><em>           iii. The group with maximum strength with the proper explanation will be winner.</em></p><p><em> </em><strong><em><u> PRIZE MONEY</u></em></strong></p><p><em> </em><strong><em>1st Prize - 3500</em></strong></p><p><strong><em> 2nd Prize - 2500</em></strong></p><p><strong><em> 3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "660ede90470feecace8b41a7"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6609709a5dfe52e400154f20"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "661116845147e717cde1536d"
+      },
+      {
+        "$oid": "6612140d9987e0fd092a478c"
+      },
+      {
+        "$oid": "661229b79987e0fd092a61a4"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "661268a6276266f14cb3b1de"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "6612aed5d1cfdcb4728a1e22"
+      },
+      {
+        "$oid": "6612b067d1cfdcb4728a217a"
+      },
+      {
+        "$oid": "6610ab638e4beb9f88f2943b"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612eea5ebab6821c9f6947a"
+      },
+      {
+        "$oid": "6612f004ebab6821c9f69578"
+      },
+      {
+        "$oid": "6612e33c34a009246095b623"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "66138975de935f6f40be783e"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "66126d39276266f14cb3b534"
+      },
+      {
+        "$oid": "66140bf8ffa96db6e7ccbc90"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "661436dc77cd2ff0d3353954"
+      },
+      {
+        "$oid": "6614ea21af93500a69066a60"
+      },
+      {
+        "$oid": "66157565b6987a199458d8c9"
+      },
+      {
+        "$oid": "66157849014ff3124a239e25"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "66163a15d5a5533b8af88eeb"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "6615781d014ff3124a239ddd"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T15:52:53.956Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T12:51:28.301Z"
+    },
+    "__v": 43
+  },
+  {
+    "_id": {
+      "$oid": "660d7c72540df4916a14e114"
+    },
+    "name": "Civic Vision : Designing the Future",
+    "date": "13/4/2024",
+    "time": "09:00",
+    "venue": "DH-1/DH-2",
+    "club": {
+      "$oid": "660d584215a1c739a242b667"
+    },
+    "clubName": "Civil Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/8b89b1b9-1506-4a0e-8e70-716eb43c5b906.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em> Mega Event</em></li><li><em>Open for all departments .</em></li><li><em>Should be a group of 3-4 members.</em></li><li><em> To plan a city in the provided area using - Thermacol and chart papers.</em></li></ul><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 10,000</em></strong></p><p><strong><em> 2nd Prize - 7000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "660ede90470feecace8b41a7"
+      },
+      {
+        "$oid": "6609709a5dfe52e400154f20"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "6611e30c9987e0fd092a37d8"
+      },
+      {
+        "$oid": "6612140d9987e0fd092a478c"
+      },
+      {
+        "$oid": "6612234d9987e0fd092a59c0"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612b067d1cfdcb4728a217a"
+      },
+      {
+        "$oid": "661272ca276266f14cb3b92f"
+      },
+      {
+        "$oid": "661271e3276266f14cb3b88e"
+      },
+      {
+        "$oid": "6612c111d1cfdcb4728a34d0"
+      },
+      {
+        "$oid": "66127146276266f14cb3b80b"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612eea5ebab6821c9f6947a"
+      },
+      {
+        "$oid": "6612f004ebab6821c9f69578"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "6612ab86d1cfdcb4728a1594"
+      },
+      {
+        "$oid": "661274c5276266f14cb3ba0c"
+      },
+      {
+        "$oid": "661373b4de935f6f40be6ee0"
+      },
+      {
+        "$oid": "661392ab0ed43d26d35f23a3"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6613ae9b89e3e7d7dd1f873e"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66126d39276266f14cb3b534"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "66141b39dd2cfb05ba7fb4c4"
+      },
+      {
+        "$oid": "66141de2dd2cfb05ba7fb603"
+      },
+      {
+        "$oid": "66157565b6987a199458d8c9"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T15:57:38.476Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T10:14:44.490Z"
+    },
+    "__v": 42
+  },
+  {
+    "_id": {
+      "$oid": "660d8057540df4916a14e13f"
+    },
+    "name": "ElectraBout",
+    "date": "11/4/2024",
+    "time": "11:00",
+    "venue": "Degree Block(Room to be Notified)",
+    "club": {
+      "$oid": "660d595015a1c739a242b67f"
+    },
+    "clubName": "Electrical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/9a4f46ab-ae5e-413b-91dd-5401c794c8241.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>This event will be a quiz on topics based on your know-about in various aspects of aptitude and basic electrical engineering.</em></li><li><em> The winner will be judged based on speed and efficiency. </em></li></ul><p><br></p><p><strong>Incase of any disagreement of any sort, the decision of the respective incharges will be considered final.</strong></p><p><br></p><p><strong><u> </u><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 3500</em></strong></p><p><strong><em> 2nd Prize - 2500</em></strong></p><p><strong><em> 3rd Prize - 1500</em></strong></p>",
+    "user": [
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "661180569987e0fd092a226a"
+      },
+      {
+        "$oid": "661204e49987e0fd092a3ea8"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "66120b2b9987e0fd092a4172"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "6611ebff9987e0fd092a3a26"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "66124913b7e65eeda24bfc5f"
+      },
+      {
+        "$oid": "66124b42b7e65eeda24c00b2"
+      },
+      {
+        "$oid": "66124c62b7e65eeda24c02ae"
+      },
+      {
+        "$oid": "661247bfb7e65eeda24bfa8a"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "66125a62b7e65eeda24c1aa2"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66125063b7e65eeda24c09dc"
+      },
+      {
+        "$oid": "661262c9276266f14cb3ab32"
+      },
+      {
+        "$oid": "66125636b7e65eeda24c12d9"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "66126a66276266f14cb3b348"
+      },
+      {
+        "$oid": "661280afd1cfdcb47289de37"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612aed5d1cfdcb4728a1e22"
+      },
+      {
+        "$oid": "6612379f9987e0fd092a6ccc"
+      },
+      {
+        "$oid": "66129407d1cfdcb47289eef6"
+      },
+      {
+        "$oid": "6612cc6e314c28086bd142ad"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66139bf9b30c8e77b9947c09"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "6613ed2972183d74c5df80ab"
+      },
+      {
+        "$oid": "6613ed1372183d74c5df8099"
+      },
+      {
+        "$oid": "661399e6b30c8e77b9947b46"
+      },
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "66141c43dd2cfb05ba7fb573"
+      },
+      {
+        "$oid": "661423dd20e9302f6b6b2730"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661423bb20e9302f6b6b271a"
+      },
+      {
+        "$oid": "661376acde935f6f40be6fe3"
+      },
+      {
+        "$oid": "66142f8ba2c68cad30b074db"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "6615a80512bf87ba04278aff"
+      },
+      {
+        "$oid": "6616324a3e1e5efe15a7cfa3"
+      },
+      {
+        "$oid": "661633e23e1e5efe15a7d021"
+      },
+      {
+        "$oid": "661638d079cafaaca7934413"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T16:14:15.278Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T14:07:21.491Z"
+    },
+    "__v": 63
+  },
+  {
+    "_id": {
+      "$oid": "660d8371540df4916a14e19d"
+    },
+    "name": "Tech-o-logic",
+    "date": "12/4/2024",
+    "time": "10:00",
+    "venue": "Power Electronics Lab",
+    "club": {
+      "$oid": "660d595015a1c739a242b67f"
+    },
+    "clubName": "Electrical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/815e034a-dc49-41ea-b0c4-ed9ef5efd3643.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>The event is based on basic understanding of Digital Circuits.</em></li><li><em>A truth table will be provided to the participant.</em></li><li><em>The participant is required to identify the circuit based on logic gates and make the connections to build the identified circuit. </em></li><li><em>The winner will be judged based on speed and efficiency.</em></li></ul><p><br></p><p><strong>Incase of any disagreement of any sort, the decision of the respective incharges will be considered final.</strong></p><p><br></p><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - 3500</em></strong></p><p><strong><em> 2nd Prize - 2500</em></strong></p><p><strong><em> 3rd Prize - 1500</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610c4e48e4beb9f88f297c2"
+      },
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "661180569987e0fd092a226a"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6612454eb7e65eeda24bf6fd"
+      },
+      {
+        "$oid": "66124671b7e65eeda24bf8ae"
+      },
+      {
+        "$oid": "66124c62b7e65eeda24c02ae"
+      },
+      {
+        "$oid": "661247bfb7e65eeda24bfa8a"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "66124b42b7e65eeda24c00b2"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "66126a66276266f14cb3b348"
+      },
+      {
+        "$oid": "66127c96276266f14cb3bc72"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "66129b0ad1cfdcb47289fcf9"
+      },
+      {
+        "$oid": "6612379f9987e0fd092a6ccc"
+      },
+      {
+        "$oid": "66129407d1cfdcb47289eef6"
+      },
+      {
+        "$oid": "661224269987e0fd092a5ae7"
+      },
+      {
+        "$oid": "6612cc6e314c28086bd142ad"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "661280afd1cfdcb47289de37"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "66141c43dd2cfb05ba7fb573"
+      },
+      {
+        "$oid": "661423dd20e9302f6b6b2730"
+      },
+      {
+        "$oid": "661376acde935f6f40be6fe3"
+      },
+      {
+        "$oid": "6612abd0d1cfdcb4728a1633"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "6615a80512bf87ba04278aff"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T16:27:29.275Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T11:29:59.732Z"
+    },
+    "__v": 46
+  },
+  {
+    "_id": {
+      "$oid": "660d865b540df4916a14e1c8"
+    },
+    "name": "Techemend",
+    "date": "12/4/2024",
+    "time": "15:00",
+    "venue": "Maintainance Lab -1",
+    "club": {
+      "$oid": "660d595015a1c739a242b67f"
+    },
+    "clubName": "Electrical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/f34716ad-e2db-46b5-a29b-57085e7fc78a4.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>One of the most popular events brought by the Electrical Engineering Department - Techemend. </em></li></ul><p><em> </em><strong><em><u>The rules are given below:</u></em></strong></p><ul><li><em> The task is clear and simple. An electrical circuit will be provided to the participant. </em></li><li><em> The circuit will be on simple domestic wiring.</em></li><li><em> The participant must reconfigure the wiring using the provided circuit.</em></li><li><em> The winner will be judged based on speed and efficiency. </em></li></ul><p><br></p><p><br></p><p><strong>Incase of any disagreement of any sort, the decision of the respective incharges will be considered final.</strong></p><p><br></p><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 3500</em></strong></p><p><strong><em>2nd Prize - 2500 </em></strong></p><p><strong><em>3rd Prize - 1500</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "661109578e4beb9f88f29db6"
+      },
+      {
+        "$oid": "6611677c5147e717cde15f21"
+      },
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "661180569987e0fd092a226a"
+      },
+      {
+        "$oid": "66118b729987e0fd092a26a3"
+      },
+      {
+        "$oid": "6611b0ef9987e0fd092a2d08"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661218629987e0fd092a4f38"
+      },
+      {
+        "$oid": "66121b719987e0fd092a52bd"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6612454eb7e65eeda24bf6fd"
+      },
+      {
+        "$oid": "66124671b7e65eeda24bf8ae"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "66126a66276266f14cb3b348"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "66129b0ad1cfdcb47289fcf9"
+      },
+      {
+        "$oid": "661280afd1cfdcb47289de37"
+      },
+      {
+        "$oid": "6612ccfa314c28086bd14402"
+      },
+      {
+        "$oid": "6612cae6314c28086bd140a0"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "66140bf8ffa96db6e7ccbc90"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "661423dd20e9302f6b6b2730"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661376acde935f6f40be6fe3"
+      },
+      {
+        "$oid": "66142f8ba2c68cad30b074db"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "66124377b7e65eeda24bf3f5"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "66168fe09e093b014a0e4a16"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T16:39:55.547Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T13:11:20.946Z"
+    },
+    "__v": 44
+  },
+  {
+    "_id": {
+      "$oid": "660d87ba540df4916a14e1d5"
+    },
+    "name": "Amped- Duo",
+    "date": "13/4/2024",
+    "time": "10:00",
+    "venue": "Degree Block Room No. 2",
+    "club": {
+      "$oid": "660d595015a1c739a242b67f"
+    },
+    "clubName": "Electrical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/3da24af4-e2c1-45a0-941e-9c5cd73c62452.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><strong><em> (Mega Event)</em></strong></p><ul><li><em>This is a duo competition so the participants must come in teams of two.</em></li><li><em> This event will comprise of three rounds. </em></li><li><em>The pairs need not only belong to one department.</em></li></ul><p><em> </em><strong><em><u>The rules are as follows</u></em></strong><em>: </em></p><ul><li><em>In the first round, the pairs will be given a word puzzle to solve. There is no elimination. </em></li><li><em>In the second round, it will be a picture puzzle will be provided on a screen. </em></li><li><em>The teams will be given trivial questions to unlock one part of the puzzle piece and will be made to identify the picture. The more pieces or parts the team attempts to unlock to identify the image, the lesser the value of points.</em></li><li><em> In the third round, the teams will be paired up to compete against each other in a quiz. The teams will be provided with questions and on answering, the opposition team may challenge the current team if they have an objection to given answer.</em></li><li><em> The points will be rewarded as bonus if the opposition team provides the correct answer. The teams will be ranked based on the total points at the end of round three.</em></li></ul><p><br></p><p><strong>Incase of any disagreement of any sort, the decision of the respective incharges will be considered final. </strong></p><p><br></p><p><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 10,000</em></strong></p><p><strong><em> 2nd Prize - 7000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "661180569987e0fd092a226a"
+      },
+      {
+        "$oid": "661109578e4beb9f88f29db6"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "6612234d9987e0fd092a59c0"
+      },
+      {
+        "$oid": "661232bc9987e0fd092a68ef"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "66122b9b9987e0fd092a62d6"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "661247bfb7e65eeda24bfa8a"
+      },
+      {
+        "$oid": "66124377b7e65eeda24bf3f5"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66124790b7e65eeda24bfa51"
+      },
+      {
+        "$oid": "66121e4f9987e0fd092a55d8"
+      },
+      {
+        "$oid": "66121b7e9987e0fd092a52c9"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "66124b42b7e65eeda24c00b2"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "661280afd1cfdcb47289de37"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "6612953cd1cfdcb47289f11a"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "66129407d1cfdcb47289eef6"
+      },
+      {
+        "$oid": "6612b6dbd1cfdcb4728a2975"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66137ac7de935f6f40be7213"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "6613ed1372183d74c5df8099"
+      },
+      {
+        "$oid": "6613ed2972183d74c5df80ab"
+      },
+      {
+        "$oid": "66140866ffa96db6e7ccba66"
+      },
+      {
+        "$oid": "6612202d9987e0fd092a57b3"
+      },
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "66141904dd2cfb05ba7fb3a1"
+      },
+      {
+        "$oid": "661376acde935f6f40be6fe3"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "661575d9b6987a199458d8f8"
+      },
+      {
+        "$oid": "66157708014ff3124a239cfb"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "6611677c5147e717cde15f21"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "661412d5dd2cfb05ba7faece"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "66163a15d5a5533b8af88eeb"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T16:45:46.032Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T14:16:51.183Z"
+    },
+    "__v": 65
+  },
+  {
+    "_id": {
+      "$oid": "660d903f540df4916a14e229"
+    },
+    "name": "Tame The Track",
+    "date": "12/4/2024",
+    "time": "10:00",
+    "venue": "Puja Ground",
+    "club": {
+      "$oid": "660d59c015a1c739a242b693"
+    },
+    "clubName": "Agricultural Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/471a7a53-41fe-463f-a99c-38a8579b1ee2Agriculture.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em> Individual event</em></li></ul><p><em> There will be two rounds -</em></p><ul><li><em>[1]<u> </u></em><strong><em><u>Preliminary round</u>:</em></strong><em> A track will be provided where the participants have to drive the tractor without trolley.</em></li></ul><p><em> a) Participants are not allowed to touch the track made of bricks. If they do then time will be added as a penalty. </em></p><p><em> b) Participants covering the track in least time will be promoted to the next and final round.</em></p><ul><li><em>[2] </em><strong><em><u>Final round</u></em></strong><em>: The tractor will be attached with a trolley.</em></li></ul><p><em> a) The participants have to first drive the tractor with trolley attached in the forward direction up to a predetermined distance.</em></p><p><em> b) The participants have to reverse the tractor along with the trolley back up to the point from where they have started. </em></p><p><em> c) Participants completing the task in least time and within the given no. of chances will be declared as the winner.</em></p><p><em> </em></p><p><em> </em><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><em> </em><strong><em>1st Prize - 3000</em></strong></p><p><strong><em> 2nd Prize - 2000</em></strong></p><p><strong><em> 3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "661177b69987e0fd092a1e82"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66121f179987e0fd092a568d"
+      },
+      {
+        "$oid": "66122f2b9987e0fd092a65c2"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "6612423fb7e65eeda24bf2a7"
+      },
+      {
+        "$oid": "66124598b7e65eeda24bf769"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "66124bdcb7e65eeda24c01b6"
+      },
+      {
+        "$oid": "6612543eb7e65eeda24c0fca"
+      },
+      {
+        "$oid": "66125063b7e65eeda24c09dc"
+      },
+      {
+        "$oid": "661261a3276266f14cb3aa2b"
+      },
+      {
+        "$oid": "66126a66276266f14cb3b348"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "66122d2d9987e0fd092a63fe"
+      },
+      {
+        "$oid": "66129489d1cfdcb47289efa6"
+      },
+      {
+        "$oid": "661292c7d1cfdcb47289ed6c"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "6612a707d1cfdcb4728a0c65"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "6612ae61d1cfdcb4728a1cf6"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "6612af9fd1cfdcb4728a2007"
+      },
+      {
+        "$oid": "6612c111d1cfdcb4728a34d0"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "6612ccfa314c28086bd14402"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612dfc3e181e691bc76c895"
+      },
+      {
+        "$oid": "6612e6a9ebab6821c9f690af"
+      },
+      {
+        "$oid": "66137839de935f6f40be712d"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66139de8b30c8e77b9947d39"
+      },
+      {
+        "$oid": "66121e4f9987e0fd092a55d8"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6613ed2972183d74c5df80ab"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "661433dda2c68cad30b07614"
+      },
+      {
+        "$oid": "661436dc77cd2ff0d3353954"
+      },
+      {
+        "$oid": "6614ebb2af93500a69066ac0"
+      },
+      {
+        "$oid": "6613280c3653f9f2b6447659"
+      },
+      {
+        "$oid": "66158859a9b348622ab8011a"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "6616390479cafaaca7934438"
+      },
+      {
+        "$oid": "6616442820a1f6a45af8bba5"
+      },
+      {
+        "$oid": "6615781d014ff3124a239ddd"
+      },
+      {
+        "$oid": "661657b06c051b8f8e6cbf44"
+      },
+      {
+        "$oid": "661668da053b99793c98cc1e"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "6616b251a181942ea8d40b38"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-03T17:22:07.397Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:22:18.032Z"
+    },
+    "__v": 59
+  },
+  {
+    "_id": {
+      "$oid": "660e5cc9ba2d97fd068c237a"
+    },
+    "name": "Circuiteshwar",
+    "date": "11/4/2024",
+    "time": "09:00",
+    "venue": "ECE Digital Lab",
+    "club": {
+      "$oid": "660d58c415a1c739a242b675"
+    },
+    "clubName": "Electronics and Communication Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/c0981962-81f7-4066-b0cd-bf46826bd5c7Blue%20Purple%20Gradient%20Illustration%20Event%20Poster.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><em> Test your circuit-building skills in this exciting challenge! Participants will be provided with a circuit diagram and a pre-built circuit on a breadboard with faults. They must rectify the faults or construct a new circuit based on the given diagram within the allotted time, ensuring the desired output.</em></p><p><strong><em><u>Event Type</u>:</em></strong><em> Group (2 members)</em></p><p><strong><em>﻿<u>Rules &amp; Regulations:</u></em></strong></p><p><em>• Punctuality is key; latecomers will not be allowed entry.</em></p><p><em>• Scoring will be based on the time taken to complete the task.</em></p><p><em>• In case of a tie, the incharges will make the final decision.</em></p><p><em>• Cheating will result in immediate disqualification.</em></p><p><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 3000</em></strong></p><p><strong><em>2n&nbsp;Prize - 2000</em></strong></p><p><strong><em>3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "660ede90470feecace8b41a7"
+      },
+      {
+        "$oid": "6610ab638e4beb9f88f2943b"
+      },
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "6610c4e48e4beb9f88f297c2"
+      },
+      {
+        "$oid": "661109578e4beb9f88f29db6"
+      },
+      {
+        "$oid": "6609709a5dfe52e400154f20"
+      },
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "661177b69987e0fd092a1e82"
+      },
+      {
+        "$oid": "661204e49987e0fd092a3ea8"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "66120b2b9987e0fd092a4172"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "661218629987e0fd092a4f38"
+      },
+      {
+        "$oid": "661227c89987e0fd092a5f7a"
+      },
+      {
+        "$oid": "66122d7b9987e0fd092a642e"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "66124c62b7e65eeda24c02ae"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "66126a66276266f14cb3b348"
+      },
+      {
+        "$oid": "6611cd079987e0fd092a327e"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "661125d65147e717cde156c3"
+      },
+      {
+        "$oid": "66128de3d1cfdcb47289e8d1"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "66129b0ad1cfdcb47289fcf9"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "6612379f9987e0fd092a6ccc"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "66125625b7e65eeda24c12b4"
+      },
+      {
+        "$oid": "6612cae6314c28086bd140a0"
+      },
+      {
+        "$oid": "6612cc6e314c28086bd142ad"
+      },
+      {
+        "$oid": "661225779987e0fd092a5ca5"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6612994dd1cfdcb47289f9ca"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "661280afd1cfdcb47289de37"
+      },
+      {
+        "$oid": "661180569987e0fd092a226a"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "66140e1effa96db6e7ccbe01"
+      },
+      {
+        "$oid": "6614150add2cfb05ba7fb0ac"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "661423dd20e9302f6b6b2730"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66124377b7e65eeda24bf3f5"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "66122d2d9987e0fd092a63fe"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "66163a15d5a5533b8af88eeb"
+      },
+      {
+        "$oid": "66122eb59987e0fd092a6567"
+      },
+      {
+        "$oid": "66166a54053b99793c98cc9d"
+      },
+      {
+        "$oid": "66166ce0053b99793c98cd9e"
+      },
+      {
+        "$oid": "66125bf0b7e65eeda24c1cfd"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "66125715b7e65eeda24c14ee"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "6612c469314c28086bd13873"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T07:54:49.947Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:11:49.730Z"
+    },
+    "__v": 66
+  },
+  {
+    "_id": {
+      "$oid": "660e5ce9ba2d97fd068c237d"
+    },
+    "name": "Model Maze",
+    "date": "13/04/2024",
+    "time": "08:00",
+    "venue": "Academic Block",
+    "club": {
+      "$oid": "660d59a515a1c739a242b68e"
+    },
+    "clubName": "Forestry",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/acbc7e1e-7b46-44a0-b6f3-c61fc00091032.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>This is a model making competition, where participants can showcase scientific models to demonstrate concepts, theories or experiments.&nbsp;</em></li></ul><p><em> </em><strong><em><u> Rules</u></em></strong><em> : a) Open for all departments</em></p><p><em> b)Should be a group of 2-5 members</em></p><p><em> c)There will be providence of materials by the In-charges on 6th - 8th April, 2024, on a first-come-first-serve basis, i.e the items will be distributed till it lasts, into which the participants can add, at will, provided that, those are not ready made structure.</em></p><p><em> d)Participants who wouldn’t get any materials, would have to purchase their own materials.</em></p><p><em> e)\tAssessment criteria is based on the relevance to the topic that they designed their models on.</em></p><p><strong><em><u>Topics</u></em></strong>:</p><p><em>1.\tEcosystem/Biome: Create models of any ecosystem present in our environment and show the different intricate relationships between the individuals.</em></p><p><em>2.\tRenewable Energy Models: Participants should create models of solar panels, wind turbines, hydropower systems, etc. To demonstrate energy generation.</em></p><p><em>3.\tNursery Management: Create a model that shows different aspects of nursery management such as water facility, mother beds, labour sheds, etc.</em></p><p><br></p><p><strong><em><u>PRIZE MONEY</u>:</em></strong></p><p><strong><em>1st Prize - Rs. 5000</em></strong></p><p><strong><em>2nd Prize - Rs 3000</em></strong></p><p><strong><em>3rd Prize - Rs 2000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6610e2558e4beb9f88f29a78"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "66125c5fb7e65eeda24c1d86"
+      },
+      {
+        "$oid": "661274c5276266f14cb3ba0c"
+      },
+      {
+        "$oid": "661216ec9987e0fd092a4c87"
+      },
+      {
+        "$oid": "66128a04d1cfdcb47289e23c"
+      },
+      {
+        "$oid": "66128a33d1cfdcb47289e273"
+      },
+      {
+        "$oid": "66128a7dd1cfdcb47289e2d0"
+      },
+      {
+        "$oid": "66128b26d1cfdcb47289e403"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "661268a6276266f14cb3b1de"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612e6a9ebab6821c9f690af"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66139de8b30c8e77b9947d39"
+      },
+      {
+        "$oid": "6613af3d89e3e7d7dd1f87a6"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "6613cfe4a9394b1a2382df70"
+      },
+      {
+        "$oid": "6613e9dc72183d74c5df7fa0"
+      },
+      {
+        "$oid": "6613e9ff72183d74c5df7fae"
+      },
+      {
+        "$oid": "661219099987e0fd092a506a"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "661216079987e0fd092a4ab6"
+      },
+      {
+        "$oid": "66142a2d8a39aaf32bd28025"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "6612b2c1d1cfdcb4728a2450"
+      },
+      {
+        "$oid": "66120b2b9987e0fd092a4172"
+      },
+      {
+        "$oid": "66157b0a014ff3124a239fe8"
+      },
+      {
+        "$oid": "661590c3a9b348622ab8058f"
+      },
+      {
+        "$oid": "66122e779987e0fd092a653b"
+      },
+      {
+        "$oid": "66125715b7e65eeda24c14ee"
+      },
+      {
+        "$oid": "6616a80d74604f653415a189"
+      },
+      {
+        "$oid": "6616479f70b740a6303ddd65"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T07:55:21.509Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T15:20:23.224Z"
+    },
+    "__v": 47
+  },
+  {
+    "_id": {
+      "$oid": "660e5f18ba2d97fd068c23d7"
+    },
+    "name": "Feel the Buzz",
+    "date": "11/4/2024",
+    "time": "11:00",
+    "venue": "Academic Block (Room no 7)",
+    "club": {
+      "$oid": "660d58c415a1c739a242b675"
+    },
+    "clubName": "Electronics and Communication Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/ffc23d6d-bd26-4358-936d-9d1301d5b3f9Feel%20the%20buzz.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><br></p><p><em>Navigate a wire loop along a copper wire maze without touching it in this thrilling challenge. Beware, as any contact with the maze will trigger a buzzer and incur a time penalty!</em></p><p><strong><em><u>Event Type</u>: </em></strong><em>Individual Competition</em></p><p><strong><em><u>Rules &amp; Regulations:</u></em></strong></p><p><em>• Participants must arrive on time; late entries will not be allowed.</em></p><p><em>• Time penalties will be added for each instance the buzzer sounds.</em></p><p><em>• Participants will be stopped after five buzzer sounds.</em></p><p><em>• Scoring will be based on the time taken, with tiebreakers final decision will be taken by the incharges.</em></p><p><em>• Cheating will result in immediate disqualification.</em></p><p><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - 3000</em></strong></p><p><strong><em>2n&nbsp;Prize - 2000</em></strong></p><p><strong><em>3rd Prize - 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "660ede90470feecace8b41a7"
+      },
+      {
+        "$oid": "6610ab638e4beb9f88f2943b"
+      },
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "661204e49987e0fd092a3ea8"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661218629987e0fd092a4f38"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "66121f229987e0fd092a56a2"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "661227729987e0fd092a5eda"
+      },
+      {
+        "$oid": "66122d2d9987e0fd092a63fe"
+      },
+      {
+        "$oid": "661224269987e0fd092a5ae7"
+      },
+      {
+        "$oid": "661232ec9987e0fd092a691a"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "66122b9b9987e0fd092a62d6"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "66124749b7e65eeda24bf9e3"
+      },
+      {
+        "$oid": "661247bfb7e65eeda24bfa8a"
+      },
+      {
+        "$oid": "66124790b7e65eeda24bfa51"
+      },
+      {
+        "$oid": "66124913b7e65eeda24bfc5f"
+      },
+      {
+        "$oid": "66124c62b7e65eeda24c02ae"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "66121b7e9987e0fd092a52c9"
+      },
+      {
+        "$oid": "66124b42b7e65eeda24c00b2"
+      },
+      {
+        "$oid": "66125829b7e65eeda24c1726"
+      },
+      {
+        "$oid": "6612573eb7e65eeda24c1561"
+      },
+      {
+        "$oid": "66125ae3b7e65eeda24c1b80"
+      },
+      {
+        "$oid": "661261de276266f14cb3aa63"
+      },
+      {
+        "$oid": "66125c5fb7e65eeda24c1d86"
+      },
+      {
+        "$oid": "6611677c5147e717cde15f21"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "66126d39276266f14cb3b534"
+      },
+      {
+        "$oid": "661274c5276266f14cb3ba0c"
+      },
+      {
+        "$oid": "66128107d1cfdcb47289de87"
+      },
+      {
+        "$oid": "661125d65147e717cde156c3"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "661253b7b7e65eeda24c0f1d"
+      },
+      {
+        "$oid": "66125708b7e65eeda24c14c7"
+      },
+      {
+        "$oid": "6612a707d1cfdcb4728a0c65"
+      },
+      {
+        "$oid": "6612a094d1cfdcb4728a04bb"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612a410d1cfdcb4728a08ab"
+      },
+      {
+        "$oid": "6612ae39d1cfdcb4728a1ca2"
+      },
+      {
+        "$oid": "6612a3fed1cfdcb4728a0899"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "6612ae45d1cfdcb4728a1cb7"
+      },
+      {
+        "$oid": "661271e3276266f14cb3b88e"
+      },
+      {
+        "$oid": "66125a62b7e65eeda24c1aa2"
+      },
+      {
+        "$oid": "6612aa4ad1cfdcb4728a11f6"
+      },
+      {
+        "$oid": "6612af9fd1cfdcb4728a2007"
+      },
+      {
+        "$oid": "661257aeb7e65eeda24c1629"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "66125625b7e65eeda24c12b4"
+      },
+      {
+        "$oid": "6612c831314c28086bd13daa"
+      },
+      {
+        "$oid": "661116845147e717cde1536d"
+      },
+      {
+        "$oid": "6612cd82314c28086bd144ea"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "6612ab86d1cfdcb4728a1594"
+      },
+      {
+        "$oid": "661377cbde935f6f40be7094"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "66139bf9b30c8e77b9947c09"
+      },
+      {
+        "$oid": "6613aa1a6b9a658c1ce6b9d8"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "66122f2b9987e0fd092a65c2"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "6613a691b30c8e77b99480a2"
+      },
+      {
+        "$oid": "6613e8a572183d74c5df7f5d"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "66138accde935f6f40be78b5"
+      },
+      {
+        "$oid": "66121f179987e0fd092a568d"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "6613fb4411b59497dcf7a04e"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "6612abd0d1cfdcb4728a1633"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "661399e6b30c8e77b9947b46"
+      },
+      {
+        "$oid": "66128a04d1cfdcb47289e23c"
+      },
+      {
+        "$oid": "66128a33d1cfdcb47289e273"
+      },
+      {
+        "$oid": "6614f721af93500a69066e9d"
+      },
+      {
+        "$oid": "66124377b7e65eeda24bf3f5"
+      },
+      {
+        "$oid": "6613280c3653f9f2b6447659"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "66158859a9b348622ab8011a"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6615f74c9a14f7afc614b710"
+      },
+      {
+        "$oid": "661225779987e0fd092a5ca5"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "66121a7c9987e0fd092a5236"
+      },
+      {
+        "$oid": "66163a15d5a5533b8af88eeb"
+      },
+      {
+        "$oid": "6612ae61d1cfdcb4728a1cf6"
+      },
+      {
+        "$oid": "6615781d014ff3124a239ddd"
+      },
+      {
+        "$oid": "6612c657314c28086bd13b43"
+      },
+      {
+        "$oid": "6612423fb7e65eeda24bf2a7"
+      },
+      {
+        "$oid": "6614319fa2c68cad30b0755f"
+      },
+      {
+        "$oid": "66138975de935f6f40be783e"
+      },
+      {
+        "$oid": "66122b5b9987e0fd092a628b"
+      },
+      {
+        "$oid": "661657b06c051b8f8e6cbf44"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "66166a54053b99793c98cc9d"
+      },
+      {
+        "$oid": "66125bf0b7e65eeda24c1cfd"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "66125715b7e65eeda24c14ee"
+      },
+      {
+        "$oid": "6612994dd1cfdcb47289f9ca"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "6612e141e181e691bc76c9af"
+      },
+      {
+        "$oid": "66125668b7e65eeda24c1354"
+      },
+      {
+        "$oid": "6614ea21af93500a69066a60"
+      },
+      {
+        "$oid": "6616b251a181942ea8d40b38"
+      },
+      {
+        "$oid": "661254dfb7e65eeda24c10fc"
+      },
+      {
+        "$oid": "6612b6c3d1cfdcb4728a2951"
+      },
+      {
+        "$oid": "6612af52d1cfdcb4728a1f60"
+      },
+      {
+        "$oid": "6612c469314c28086bd13873"
+      },
+      {
+        "$oid": "6613b858bda80495325c5711"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T08:04:40.292Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:43:18.918Z"
+    },
+    "__v": 133
+  },
+  {
+    "_id": {
+      "$oid": "660e6117ba2d97fd068c2422"
+    },
+    "name": "Know - Your - Plants",
+    "date": "12/04/2024",
+    "time": "11:00",
+    "venue": "Academic Block",
+    "club": {
+      "$oid": "660d59a515a1c739a242b68e"
+    },
+    "clubName": "Forestry",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/86432f01-d496-4b3e-9e02-e11e606b98f51.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>This is a competition where participants need to identify different species of plants using the displayed part of the plant.&nbsp;</em></li></ul><p><em> </em><strong><em><u> Rules</u></em></strong><em>:&nbsp;1. Each participants will be given 3 minutes each to identify the plant species and write it's scientific name on a piece of paper.&nbsp;</em></p><p><em> 2. The participant with the highest no. of correct species will win.</em></p><p><br></p><p><br></p><p><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - Rs 3000</em></strong></p><p><strong><em>2nd Prize - Rs 2000</em></strong></p><p><strong><em>3rd Prize - Rs 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610e2558e4beb9f88f29a78"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "661218bd9987e0fd092a4fe7"
+      },
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "66122e779987e0fd092a653b"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "66125c5fb7e65eeda24c1d86"
+      },
+      {
+        "$oid": "661268a6276266f14cb3b1de"
+      },
+      {
+        "$oid": "6612a707d1cfdcb4728a0c65"
+      },
+      {
+        "$oid": "6612ca36314c28086bd13fce"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612e6a9ebab6821c9f690af"
+      },
+      {
+        "$oid": "6613624e38224591afec36ff"
+      },
+      {
+        "$oid": "6613839ede935f6f40be7549"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "66139de8b30c8e77b9947d39"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66127b21276266f14cb3bc37"
+      },
+      {
+        "$oid": "6613f19211b59497dcf799d5"
+      },
+      {
+        "$oid": "66140f12ffa96db6e7ccbec0"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "661495e889337ed54b5f28c2"
+      },
+      {
+        "$oid": "6614ce58a7101ed5369d70db"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "66157b0a014ff3124a239fe8"
+      },
+      {
+        "$oid": "66157cb3014ff3124a23a118"
+      },
+      {
+        "$oid": "66158859a9b348622ab8011a"
+      },
+      {
+        "$oid": "661590d5a9b348622ab805a9"
+      },
+      {
+        "$oid": "6613a784b30c8e77b994813c"
+      },
+      {
+        "$oid": "661641dc210c0d6ab5837870"
+      },
+      {
+        "$oid": "661657b06c051b8f8e6cbf44"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T08:13:11.997Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T09:37:26.066Z"
+    },
+    "__v": 35
+  },
+  {
+    "_id": {
+      "$oid": "660e62e5ba2d97fd068c2457"
+    },
+    "name": "Eco-Craft-Clique",
+    "date": "11/4/2024",
+    "time": "11:00",
+    "venue": "Academic Block",
+    "club": {
+      "$oid": "660d59a515a1c739a242b68e"
+    },
+    "clubName": "Forestry",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/326ff8b7-c8e1-4b05-8ea0-41d0c53f399f6.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>This is a competition where participants will have to display different types of crafts, made using eco-friendly materials such as paper, leaves, barks, seeds, soil, etc.</em></li></ul><p><strong><em><u>Rules:</u></em></strong></p><p><em>I.\tAn individual/group can submit up to 3 items but only 1 will be selected for the final round of evaluation.</em></p><p><em>II.\tMaterials used must be eco-friendly and sustainable, avoiding any harmful or non-recyclable substances (eg. Plastic, metals, etc.). Binding materials such as glue, staples, clay, etc are allowed to be used, but in as minimal use as possible.&nbsp;</em></p><p><em>III.\tMinimal Environmental Impact: Consideration should be given to the overall environmental impact of the craft, from production to disposal.</em></p><p><em>IV.\tFunctionality and Aesthetics: While prioritizing sustainability, crafts should also exhibit functionality and aesthetic appeal, demonstrating that eco-friendly design can be both practical and visual pleasing.</em></p><p><em>V.\tEducational element: Each craft should have an educational component explaining its environment benefits, promoting awareness of sustainability.</em></p><p><em>\t</em></p><p><em>•Judging criteria: Judges will assess crafts based on creativity, adherence to sustainability principles, functionality, educational value, and overall environmental impact.</em></p><p><br></p><p><em> </em><strong><em><u> PRIZE POOL:</u></em></strong></p><p><strong><em> 1st Prize: Rs 3000</em></strong></p><p><strong><em> 2nd Prize: Rs 2000</em></strong></p><p><strong><em> 3rd Prize: Rs 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6610e2558e4beb9f88f29a78"
+      },
+      {
+        "$oid": "661116845147e717cde1536d"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "661268a6276266f14cb3b1de"
+      },
+      {
+        "$oid": "66127531276266f14cb3ba3f"
+      },
+      {
+        "$oid": "661272c5276266f14cb3b925"
+      },
+      {
+        "$oid": "661274c5276266f14cb3ba0c"
+      },
+      {
+        "$oid": "66128a33d1cfdcb47289e273"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "6612953cd1cfdcb47289f11a"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "6612a202d1cfdcb4728a06ce"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "6612ca36314c28086bd13fce"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "661225779987e0fd092a5ca5"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612e6a9ebab6821c9f690af"
+      },
+      {
+        "$oid": "661388cbde935f6f40be775f"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "6612eea5ebab6821c9f6947a"
+      },
+      {
+        "$oid": "66139de8b30c8e77b9947d39"
+      },
+      {
+        "$oid": "661262c9276266f14cb3ab32"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "6613e9ff72183d74c5df7fae"
+      },
+      {
+        "$oid": "6613624e38224591afec36ff"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "66140f12ffa96db6e7ccbec0"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "6612b2c1d1cfdcb4728a2450"
+      },
+      {
+        "$oid": "6614ce49a7101ed5369d70d3"
+      },
+      {
+        "$oid": "6614ce58a7101ed5369d70db"
+      },
+      {
+        "$oid": "66138975de935f6f40be783e"
+      },
+      {
+        "$oid": "66157849014ff3124a239e25"
+      },
+      {
+        "$oid": "6615781d014ff3124a239ddd"
+      },
+      {
+        "$oid": "66157b0a014ff3124a239fe8"
+      },
+      {
+        "$oid": "6611677c5147e717cde15f21"
+      },
+      {
+        "$oid": "661590d5a9b348622ab805a9"
+      },
+      {
+        "$oid": "661590c3a9b348622ab8058f"
+      },
+      {
+        "$oid": "6615f74c9a14f7afc614b710"
+      },
+      {
+        "$oid": "66163edd23e4d4b2d4384063"
+      },
+      {
+        "$oid": "661239129987e0fd092a6e1c"
+      },
+      {
+        "$oid": "6612ad2ed1cfdcb4728a19fd"
+      },
+      {
+        "$oid": "6616479f70b740a6303ddd65"
+      },
+      {
+        "$oid": "66128b46d1cfdcb47289e427"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "661216b09987e0fd092a4c01"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T08:20:53.557Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T13:35:15.795Z"
+    },
+    "__v": 58
+  },
+  {
+    "_id": {
+      "$oid": "660e6675ba2d97fd068c249b"
+    },
+    "name": "Robo Rampage Rally",
+    "date": "13/4/2024",
+    "time": "09:00",
+    "venue": "Nerist Ground",
+    "club": {
+      "$oid": "660d592915a1c739a242b67a"
+    },
+    "clubName": "Mechanical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/cd727a48-cbea-4c27-88b0-3dbc5df59fa66.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>RC Off-Road Robot Race Riot&nbsp;- This is a competition involving remote-controlled (RC) off-road vehicles.</em></li><li><em>Minimum 1 and maximum 3 person in a group.</em></li><li><em>This will be an obstacle course race for RC/ wired controlled Rovers (Robots).</em></li><li><em>Judging Criteria is based on time trial.</em></li></ul><p><em> </em><strong><em>Pre build models not allowed!!!</em></strong></p><p><br></p><p><strong><em> <u> PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - Rs 8000</em></strong></p><p><strong><em> 2nd Prize - Rs 5000</em></strong></p><p><strong><em> </em></strong></p>",
+    "user": [
+      {
+        "$oid": "660ede90470feecace8b41a7"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "661218629987e0fd092a4f38"
+      },
+      {
+        "$oid": "66124c9db7e65eeda24c0307"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "66129b0ad1cfdcb47289fcf9"
+      },
+      {
+        "$oid": "6612cae6314c28086bd140a0"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66122d2d9987e0fd092a63fe"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "6614150add2cfb05ba7fb0ac"
+      },
+      {
+        "$oid": "66141b39dd2cfb05ba7fb4c4"
+      },
+      {
+        "$oid": "66141de2dd2cfb05ba7fb603"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "66158e94a9b348622ab804aa"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6614319fa2c68cad30b0755f"
+      },
+      {
+        "$oid": "661254dfb7e65eeda24c10fc"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T08:36:05.115Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:05:37.003Z"
+    },
+    "__v": 29
+  },
+  {
+    "_id": {
+      "$oid": "660e676cba2d97fd068c24a5"
+    },
+    "name": "Thermo Thrill Regatta",
+    "date": "12/4/2024",
+    "time": "15:00",
+    "venue": "Gymkhana",
+    "club": {
+      "$oid": "660d592915a1c739a242b67a"
+    },
+    "clubName": "Mechanical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/edcf7d00-94c1-45ef-9b2c-c371b6b84e491.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>The Ultimate Thermocol Boat Race - This is a competition where participants design and race boats made out of thermocol or any lightweight, insulating material.</em></li><li><em>Minimum 2 and maximum 3 person in a group.</em></li><li><em>Boat should be made using Thermocol or any non conductive material.</em></li><li><em>Can use only the provided motor and battery.</em></li></ul><p><em> </em><strong> <em>Pre build models are not allowed!!!</em></strong></p><p><strong>Materials are limited so first come first serve</strong></p><p><br></p><p><em> </em><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - Rs. 8000</em></strong></p><p><strong><em> 2nd Prize - Rs 5000</em></strong></p><p><strong><em> </em></strong></p>",
+    "user": [
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "661177b69987e0fd092a1e82"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "6611e0d79987e0fd092a36be"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "661204e49987e0fd092a3ea8"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "661215ea9987e0fd092a4a60"
+      },
+      {
+        "$oid": "661216b09987e0fd092a4c01"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "661218629987e0fd092a4f38"
+      },
+      {
+        "$oid": "661219099987e0fd092a506a"
+      },
+      {
+        "$oid": "661227729987e0fd092a5eda"
+      },
+      {
+        "$oid": "66122d2d9987e0fd092a63fe"
+      },
+      {
+        "$oid": "661238dc9987e0fd092a6dec"
+      },
+      {
+        "$oid": "6612379f9987e0fd092a6ccc"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6612433eb7e65eeda24bf3b6"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "661254dfb7e65eeda24c10fc"
+      },
+      {
+        "$oid": "66121e4f9987e0fd092a55d8"
+      },
+      {
+        "$oid": "66125200b7e65eeda24c0c1a"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "66129568d1cfdcb47289f187"
+      },
+      {
+        "$oid": "66129b0ad1cfdcb47289fcf9"
+      },
+      {
+        "$oid": "6612a707d1cfdcb4728a0c65"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612265b9987e0fd092a5d90"
+      },
+      {
+        "$oid": "6612aa4ad1cfdcb4728a11f6"
+      },
+      {
+        "$oid": "6612af52d1cfdcb4728a1f60"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "661239129987e0fd092a6e1c"
+      },
+      {
+        "$oid": "6612b6c3d1cfdcb4728a2951"
+      },
+      {
+        "$oid": "661272ca276266f14cb3b92f"
+      },
+      {
+        "$oid": "661271e3276266f14cb3b88e"
+      },
+      {
+        "$oid": "6612c111d1cfdcb4728a34d0"
+      },
+      {
+        "$oid": "6612cae6314c28086bd140a0"
+      },
+      {
+        "$oid": "66128a57d1cfdcb47289e2a7"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "6612d7cc314c28086bd14f10"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612e1ace181e691bc76c9fe"
+      },
+      {
+        "$oid": "661254b8b7e65eeda24c10a3"
+      },
+      {
+        "$oid": "6613572f38224591afec366e"
+      },
+      {
+        "$oid": "6612423fb7e65eeda24bf2a7"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66125668b7e65eeda24c1354"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6612c657314c28086bd13b43"
+      },
+      {
+        "$oid": "661384d2de935f6f40be762f"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "6613b64c841058706f5e6d4f"
+      },
+      {
+        "$oid": "66122f2b9987e0fd092a65c2"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "6613a691b30c8e77b99480a2"
+      },
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "6613e536305e1928356612ba"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "66138accde935f6f40be78b5"
+      },
+      {
+        "$oid": "6612994dd1cfdcb47289f9ca"
+      },
+      {
+        "$oid": "6613f0f311b59497dcf798fd"
+      },
+      {
+        "$oid": "6613f11611b59497dcf79928"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "66127146276266f14cb3b80b"
+      },
+      {
+        "$oid": "6613ff7311b59497dcf7a166"
+      },
+      {
+        "$oid": "66140bf8ffa96db6e7ccbc90"
+      },
+      {
+        "$oid": "6612ad2ed1cfdcb4728a19fd"
+      },
+      {
+        "$oid": "66140d94ffa96db6e7ccbd9f"
+      },
+      {
+        "$oid": "66140e1effa96db6e7ccbe01"
+      },
+      {
+        "$oid": "6612bb1fd1cfdcb4728a2e49"
+      },
+      {
+        "$oid": "66141e4bdd2cfb05ba7fb64c"
+      },
+      {
+        "$oid": "6614223ddd2cfb05ba7fb906"
+      },
+      {
+        "$oid": "661424e420e9302f6b6b280d"
+      },
+      {
+        "$oid": "66128107d1cfdcb47289de87"
+      },
+      {
+        "$oid": "6612b67bd1cfdcb4728a2909"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": true,
+    "createdAt": {
+      "$date": "2024-04-04T08:40:12.916Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-08T17:27:06.045Z"
+    },
+    "__v": 83
+  },
+  {
+    "_id": {
+      "$oid": "660e6af8ba2d97fd068c24d7"
+    },
+    "name": "Drone Warzone",
+    "date": "13/4/2024",
+    "time": "11:00",
+    "venue": "Nerist Ground",
+    "club": {
+      "$oid": "660d592915a1c739a242b67a"
+    },
+    "clubName": "Mechanical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/7edfa59a-8044-4c39-800a-d8d192907f21Mechanical.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>The Ultimate Aerial Engineering Showdown - This is a competition involving drones.</em></li><li><em>Minimum 1 maximum 3 members in a group.</em></li></ul><p><em> </em><strong><em><u> Drone Criteria :</u></em></strong><em> </em></p><p><em> 1.Drone shouldn't weight more than 3kg.</em></p><p><em> 2.Drone size shouldn't exceed 40cm.</em></p><p><strong><em><u> Competition Criteria:</u></em></strong></p><p><em> Drone needs to perform and lift weight.</em></p><p><strong><em> <u>Judging Criteria</u> : </em></strong><em>Design , performance , functionability &amp; Pay Load Capacity .</em></p><p><strong><em> Pre build models not allowed!!!</em></strong></p><p><br></p><p><strong><em> </em></strong></p><p><em style=\"font-weight: bold;\"><u> PRIZE Pool:</u>Rs. 45000*</em></p><p><strong><em> </em></strong></p>",
+    "user": [
+      {
+        "$oid": "66124c9db7e65eeda24c0307"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66127146276266f14cb3b80b"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "66129568d1cfdcb47289f187"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "661238dc9987e0fd092a6dec"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6612bcced1cfdcb4728a2fdc"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "66138accde935f6f40be78b5"
+      },
+      {
+        "$oid": "6612994dd1cfdcb47289f9ca"
+      },
+      {
+        "$oid": "6612265b9987e0fd092a5d90"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T08:55:20.694Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-09T03:32:27.698Z"
+    },
+    "__v": 19
+  },
+  {
+    "_id": {
+      "$oid": "660e6cd7ba2d97fd068c24eb"
+    },
+    "name": "Design Draft Duel",
+    "date": "12/04/2024",
+    "time": "09:00",
+    "venue": "Drawing Hall",
+    "club": {
+      "$oid": "660d592915a1c739a242b67a"
+    },
+    "clubName": "Mechanical Engineering",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/0ad4984b-2bd2-46af-8b1d-4b63a09fc8a15.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em>The Ultimate Engineering Drawing Competition - This is a competition where participants test their engineering drawing skills.</em></li><li><em>Solo event. </em></li><li><em> Participants needs to bring their own drafter and pencil . Chart Paper will be provided.</em></li></ul><p><br></p><p><em> </em><strong><em><u> PRIZEMONEY:</u></em></strong></p><p><strong><em> 1st Prize - Rs. 3000</em></strong></p><p><strong><em> 2nd Prize - Rs 2000</em></strong></p><p><strong><em> 3rd Prize - Rs 1000</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6611e0d79987e0fd092a36be"
+      },
+      {
+        "$oid": "661219099987e0fd092a506a"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "6612234d9987e0fd092a59c0"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "66129568d1cfdcb47289f187"
+      },
+      {
+        "$oid": "6612b67bd1cfdcb4728a2909"
+      },
+      {
+        "$oid": "6612a179d1cfdcb4728a05d4"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "6612d7cc314c28086bd14f10"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66139ce6b30c8e77b9947c42"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "66125636b7e65eeda24c12d9"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-04T09:03:19.782Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T08:02:42.692Z"
+    },
+    "__v": 18
+  },
+  {
+    "_id": {
+      "$oid": "660ecbb9470feecace8b40a4"
+    },
+    "name": "Sci-fi Utopia",
+    "date": "10/4/2024",
+    "time": "14:00",
+    "venue": "Mechanical Seminar Hall",
+    "club": {
+      "$oid": "660d599215a1c739a242b689"
+    },
+    "clubName": "Techno Club",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/c4a93b3c-29e3-4583-ab64-1cb78fa147e8sci%20fi%20utopia.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<ul><li><em> The event \"Sci-Fi Utopia\" invites participants to analyze movie scenes from a scientific perspective, evaluating the extent to which they align with current scientific knowledge and technologies. Participants will present their findings in a Powerpoint/Canva Presentation, exploring the feasibility of a particular sci-fi movie scene or a sci-fi gadget used in the movie within the realm of contemporary science.</em></li></ul><p><em> Rules: </em></p><p><em> 1.&nbsp;&nbsp;&nbsp;It is a team event of 2 members.</em></p><p><em> 2.&nbsp;&nbsp;&nbsp;&nbsp;Decision of the judges will be final.</em></p><p><em> 3.&nbsp;&nbsp;&nbsp;&nbsp;Event is open to all NERIST students.</em></p><p><br></p><p><strong><em><u> PRIZE MONEY:</u></em></strong></p><p><strong><em> 1st Prize - Rs 5000</em></strong></p><p><strong><em> 2nd Prize - Rs 3000</em></strong></p><p><strong><em> 3rd Prize - Rs 1000</em></strong></p><p><br></p><p><strong><em><span class=\"ql-cursor\">﻿</span>Contact us (Techno Club):</em></strong></p><p><em>Abhinab Sharma: 7004626324</em>\t</p><p><em>Supratim Roy: 9476966372</em></p><p><em>Jonak Saha: 6009932505</em></p><p><em>Gaurav Changmai: 8638662237</em></p><p><em>Narayan Barman: 7085822508</em></p><p><em>Drishmita Borah: 9366074760</em></p>",
+    "user": [
+      {
+        "$oid": "6610ab638e4beb9f88f2943b"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "661116845147e717cde1536d"
+      },
+      {
+        "$oid": "661215d79987e0fd092a4a43"
+      },
+      {
+        "$oid": "66124838b7e65eeda24bfb27"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "6612953cd1cfdcb47289f11a"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "6612a179d1cfdcb4728a05d4"
+      },
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "6612b6dbd1cfdcb4728a2975"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66125668b7e65eeda24c1354"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6613dd3f305e192835661082"
+      },
+      {
+        "$oid": "66140866ffa96db6e7ccba66"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "66124a89b7e65eeda24bff6d"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6613e8a572183d74c5df7f5d"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "6613d590a9394b1a2382e27a"
+      },
+      {
+        "$oid": "6610ce118e4beb9f88f29937"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": true,
+    "createdAt": {
+      "$date": "2024-04-04T15:48:09.200Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T05:17:43.413Z"
+    },
+    "__v": 35
+  },
+  {
+    "_id": {
+      "$oid": "660f9160c1101db0b49b06a9"
+    },
+    "name": "Haze",
+    "date": "12/4/2024",
+    "time": "14:00",
+    "venue": "Academic Block (Room no 1,3 & 6)",
+    "club": {
+      "$oid": "660d599215a1c739a242b689"
+    },
+    "clubName": "Techno Club",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/6f31f1cb-1786-42b4-a81f-f8847aba7159Copy%20of%20SCAVENGER%20HUNT.png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><em> Have a photographic memory? Yes? Then lets Haze.</em></p><p><strong><em><u>Rules:</u></em></strong></p><p><em>1.&nbsp;&nbsp;It is a team event of 2 members.</em></p><p><em>2.&nbsp;&nbsp;The decision of judges will be final.</em></p><p><em>3.&nbsp;&nbsp;All other rules will be announced during the event.</em></p><p><em>4.&nbsp;&nbsp;&nbsp;Event is open to all NERIST students.</em></p><p><br></p><p><strong><em><u>PRIZE MONEY:</u></em></strong></p><p><strong><em>1st Prize - Rs 8000</em></strong></p><p><strong><em>2nd Prize - Rs 5000</em></strong></p><p><strong><em>3rd Prize - Rs 2000</em></strong></p><p><br></p><p><strong><em><span class=\"ql-cursor\">﻿</span>Contact us (Techno Club):</em></strong></p><p><em>Abhinab Sharma: 7004626324</em>\t</p><p><em>Supratim Roy: 9476966372</em></p><p><em>Jonak Saha: 6009932505</em></p><p><em>Gaurav Changmai: 8638662237</em></p><p><em>Narayan Barman: 7085822508</em></p><p><em>Drishmita Borah: 9366074760</em></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "66116f27bae12c6e64c85229"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "6611e0d79987e0fd092a36be"
+      },
+      {
+        "$oid": "66120aad9987e0fd092a40fd"
+      },
+      {
+        "$oid": "66120fb69987e0fd092a43e3"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "6612187c9987e0fd092a4f61"
+      },
+      {
+        "$oid": "6612234d9987e0fd092a59c0"
+      },
+      {
+        "$oid": "661221329987e0fd092a5893"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "66122b0a9987e0fd092a6251"
+      },
+      {
+        "$oid": "66123a9d9987e0fd092a7067"
+      },
+      {
+        "$oid": "6612265b9987e0fd092a5d90"
+      },
+      {
+        "$oid": "66123f8db7e65eeda24bf0fc"
+      },
+      {
+        "$oid": "66122b9b9987e0fd092a62d6"
+      },
+      {
+        "$oid": "66124749b7e65eeda24bf9e3"
+      },
+      {
+        "$oid": "66124790b7e65eeda24bfa51"
+      },
+      {
+        "$oid": "66124c62b7e65eeda24c02ae"
+      },
+      {
+        "$oid": "661210ff9987e0fd092a44b2"
+      },
+      {
+        "$oid": "66121b7e9987e0fd092a52c9"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "66125200b7e65eeda24c0c1a"
+      },
+      {
+        "$oid": "66124b42b7e65eeda24c00b2"
+      },
+      {
+        "$oid": "6612573eb7e65eeda24c1561"
+      },
+      {
+        "$oid": "66125ae3b7e65eeda24c1b80"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "66124598b7e65eeda24bf769"
+      },
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "661268a6276266f14cb3b1de"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "66126d39276266f14cb3b534"
+      },
+      {
+        "$oid": "66127c96276266f14cb3bc72"
+      },
+      {
+        "$oid": "661280afd1cfdcb47289de37"
+      },
+      {
+        "$oid": "66127f7dd1cfdcb47289dd8d"
+      },
+      {
+        "$oid": "661289d9d1cfdcb47289e233"
+      },
+      {
+        "$oid": "66124c04b7e65eeda24c0201"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "66128efdd1cfdcb47289ea27"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "6612953cd1cfdcb47289f11a"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "66122eb59987e0fd092a6567"
+      },
+      {
+        "$oid": "66128bfed1cfdcb47289e54b"
+      },
+      {
+        "$oid": "66129686d1cfdcb47289f3df"
+      },
+      {
+        "$oid": "66129875d1cfdcb47289f81e"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "6612994dd1cfdcb47289f9ca"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "66125007b7e65eeda24c093c"
+      },
+      {
+        "$oid": "6612a7e0d1cfdcb4728a0ddf"
+      },
+      {
+        "$oid": "661209bf9987e0fd092a40c7"
+      },
+      {
+        "$oid": "6612a410d1cfdcb4728a08ab"
+      },
+      {
+        "$oid": "66121a3d9987e0fd092a51d9"
+      },
+      {
+        "$oid": "6612ad2ed1cfdcb4728a19fd"
+      },
+      {
+        "$oid": "661207229987e0fd092a3fd3"
+      },
+      {
+        "$oid": "66129407d1cfdcb47289eef6"
+      },
+      {
+        "$oid": "66120d029987e0fd092a436c"
+      },
+      {
+        "$oid": "6612b29bd1cfdcb4728a241c"
+      },
+      {
+        "$oid": "6612b6dbd1cfdcb4728a2975"
+      },
+      {
+        "$oid": "6612bee4d1cfdcb4728a3200"
+      },
+      {
+        "$oid": "66127314276266f14cb3b968"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "661225779987e0fd092a5ca5"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612d7cc314c28086bd14f10"
+      },
+      {
+        "$oid": "661274c5276266f14cb3ba0c"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "6612ab86d1cfdcb4728a1594"
+      },
+      {
+        "$oid": "661377cbde935f6f40be7094"
+      },
+      {
+        "$oid": "6612423fb7e65eeda24bf2a7"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "66138ed2418077513efb9825"
+      },
+      {
+        "$oid": "66125668b7e65eeda24c1354"
+      },
+      {
+        "$oid": "6612604d276266f14cb3a8e3"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "6613912b418077513efb9988"
+      },
+      {
+        "$oid": "6612c111d1cfdcb4728a34d0"
+      },
+      {
+        "$oid": "6613a8b1b30c8e77b994825a"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "66122f2b9987e0fd092a65c2"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66124977b7e65eeda24bfd3a"
+      },
+      {
+        "$oid": "6612bcced1cfdcb4728a2fdc"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6613ed1372183d74c5df8099"
+      },
+      {
+        "$oid": "6613ed2972183d74c5df80ab"
+      },
+      {
+        "$oid": "6613f36b11b59497dcf79be4"
+      },
+      {
+        "$oid": "6613698bfe49145d271189fb"
+      },
+      {
+        "$oid": "661254dfb7e65eeda24c10fc"
+      },
+      {
+        "$oid": "6613f19211b59497dcf799d5"
+      },
+      {
+        "$oid": "6613fb4411b59497dcf7a04e"
+      },
+      {
+        "$oid": "66140866ffa96db6e7ccba66"
+      },
+      {
+        "$oid": "661212bf9987e0fd092a4648"
+      },
+      {
+        "$oid": "66140e1effa96db6e7ccbe01"
+      },
+      {
+        "$oid": "66128b46d1cfdcb47289e427"
+      },
+      {
+        "$oid": "66140f12ffa96db6e7ccbec0"
+      },
+      {
+        "$oid": "661423dd20e9302f6b6b2730"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "661436dc77cd2ff0d3353954"
+      },
+      {
+        "$oid": "66128c03d1cfdcb47289e557"
+      },
+      {
+        "$oid": "6612abd0d1cfdcb4728a1633"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "6614ce58a7101ed5369d70db"
+      },
+      {
+        "$oid": "6614ce49a7101ed5369d70d3"
+      },
+      {
+        "$oid": "66128a16d1cfdcb47289e24e"
+      },
+      {
+        "$oid": "661227729987e0fd092a5eda"
+      },
+      {
+        "$oid": "66157be8014ff3124a23a08c"
+      },
+      {
+        "$oid": "66138975de935f6f40be783e"
+      },
+      {
+        "$oid": "66158244c0e41da6a40d21c3"
+      },
+      {
+        "$oid": "661583f2dacf3ad709fbc774"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "6612ca36314c28086bd13fce"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "66163edd23e4d4b2d4384063"
+      },
+      {
+        "$oid": "6616324a3e1e5efe15a7cfa3"
+      },
+      {
+        "$oid": "6614319fa2c68cad30b0755f"
+      },
+      {
+        "$oid": "66122b5b9987e0fd092a628b"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "66166a54053b99793c98cc9d"
+      },
+      {
+        "$oid": "66117f989987e0fd092a21c3"
+      },
+      {
+        "$oid": "661412d5dd2cfb05ba7faece"
+      },
+      {
+        "$oid": "66168dd8db100d987fbbc9b5"
+      },
+      {
+        "$oid": "66128b5dd1cfdcb47289e43a"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "6616b251a181942ea8d40b38"
+      },
+      {
+        "$oid": "6612b6c3d1cfdcb4728a2951"
+      },
+      {
+        "$oid": "6612af52d1cfdcb4728a1f60"
+      },
+      {
+        "$oid": "6616be584e3dc8e578cb45e1"
+      },
+      {
+        "$oid": "66138accde935f6f40be78b5"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-05T05:51:28.836Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:45:01.132Z"
+    },
+    "__v": 140
+  },
+  {
+    "_id": {
+      "$oid": "660f9209c1101db0b49b06b3"
+    },
+    "name": "Blind Chess",
+    "date": "13/04/2024",
+    "time": "09:00",
+    "venue": "Academic Block (Room no 3 & 5)",
+    "club": {
+      "$oid": "660d599215a1c739a242b689"
+    },
+    "clubName": "Techno Club",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/89857068-59f7-4d23-bfba-683c068fbeedBlind%20Chess%20(1).png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><em>&nbsp;Players will verbally announce the moves and write them in a piece of paper, without moving the pieces on the board. </em></p><p><strong><em><u>Rules</u></em></strong><em>:</em></p><p><em>1.&nbsp;It is a solo event.</em></p><p><em>2.&nbsp;Each game will be of 5 minutes with 3sec increment.</em></p><p><em>3.&nbsp;Maximum of 4 illegals are allowed.</em></p><p><em>4.&nbsp;Event is open to all NERIST students.</em></p><p><br></p><p><strong><em><u>Prize money:</u></em></strong></p><p><strong><em>1</em></strong><sup><strong><em>st</em></strong></sup><strong><em> - Rs 3000</em></strong></p><p><strong><em>2</em></strong><sup><strong><em>nd</em></strong></sup><strong><em> - Rs 2000</em></strong></p><p><strong><em>3</em></strong><sup><strong><em>rd</em></strong></sup><strong><em> - Rs 1000</em></strong></p><p><br></p><p><strong><em>﻿Contact us (Techno Club):</em></strong></p><p><em>Abhinab Sharma: 7004626324</em></p><p><em>Supratim Roy: 9476966372</em></p><p><em>Jonak Saha: 6009932505</em></p><p><em>Gaurav Changmai: 8638662237</em></p><p><em>Narayan Barman: 7085822508</em></p><p><em>Drishmita Borah: 9366074760</em></p>",
+    "user": [
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "6611119d8e4beb9f88f29f65"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6612234d9987e0fd092a59c0"
+      },
+      {
+        "$oid": "66122c999987e0fd092a63b0"
+      },
+      {
+        "$oid": "6611cd079987e0fd092a327e"
+      },
+      {
+        "$oid": "66124c42b7e65eeda24c027a"
+      },
+      {
+        "$oid": "6611ff889987e0fd092a3ce7"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "66125981b7e65eeda24c199c"
+      },
+      {
+        "$oid": "6611f0159987e0fd092a3ad0"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      },
+      {
+        "$oid": "661271e3276266f14cb3b88e"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "6613af3d89e3e7d7dd1f87a6"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "6612b6dbd1cfdcb4728a2975"
+      },
+      {
+        "$oid": "6615c6b912bf87ba04278cb4"
+      },
+      {
+        "$oid": "6615f74c9a14f7afc614b710"
+      },
+      {
+        "$oid": "661280afd1cfdcb47289de37"
+      },
+      {
+        "$oid": "66125715b7e65eeda24c14ee"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "660ae185ee9e68bfcccc507f"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-05T05:54:17.325Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T13:07:05.592Z"
+    },
+    "__v": 25
+  },
+  {
+    "_id": {
+      "$oid": "66119f159987e0fd092a2a0c"
+    },
+    "name": "Scavenger Hunt",
+    "date": "11/04/2024",
+    "time": "09:00",
+    "venue": "Scan QR to register",
+    "club": {
+      "$oid": "660d599215a1c739a242b689"
+    },
+    "clubName": "Techno Club",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/bd2aefbc-318b-4ce4-aaf5-3537f1639e89SCAVENGER%20HUNT%20(3).png?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p><strong><u>!!! Mega event !!!</u></strong></p><p><br></p><p><strong><em>Prize Money: Rs 20,000</em></strong></p><p><br></p><p><strong><em>Rules :</em></strong></p><p><strong><em>1. Decision of incharges will be final.</em></strong></p><p><strong><em>2. The first team to clear all the stages will get the treasure.﻿</em></strong></p><p><strong><em>3. All the members of a team must stay together throughout the hunt period.﻿</em></strong></p><p><strong><em>4. Hint tampering is not allowed. If found, the team will be disqualified rightaway.﻿</em></strong></p><p><strong><em>5. Game Spirit must be maintained. Any arguments with the Event Organizers will lead to disqualification.﻿</em></strong></p><p><strong><em>6. Use of vehicle is not permitted.﻿</em></strong></p><p><strong><em>7. If no group clears all the stages, the team at highest stage (who enters first) wins.﻿</em></strong></p><p><strong><em>8. Final years(B.Tech) are not allowed to participate.﻿</em></strong></p>",
+    "user": [
+      {
+        "$oid": "6612ad2ed1cfdcb4728a19fd"
+      },
+      {
+        "$oid": "6612947fd1cfdcb47289ef8d"
+      },
+      {
+        "$oid": "6611cd079987e0fd092a327e"
+      },
+      {
+        "$oid": "66129428d1cfdcb47289ef2e"
+      },
+      {
+        "$oid": "66129568d1cfdcb47289f187"
+      },
+      {
+        "$oid": "6612b67bd1cfdcb4728a2909"
+      },
+      {
+        "$oid": "661299d6d1cfdcb47289faa3"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "66125625b7e65eeda24c12b4"
+      },
+      {
+        "$oid": "661238dc9987e0fd092a6dec"
+      },
+      {
+        "$oid": "6612a95ed1cfdcb4728a109d"
+      },
+      {
+        "$oid": "66128a57d1cfdcb47289e2a7"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "66126762276266f14cb3b0a0"
+      },
+      {
+        "$oid": "6611e6bc9987e0fd092a386a"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "6612d7cc314c28086bd14f10"
+      },
+      {
+        "$oid": "6612e1ace181e691bc76c9fe"
+      },
+      {
+        "$oid": "6612e919ebab6821c9f6921a"
+      },
+      {
+        "$oid": "6612e9a4ebab6821c9f69250"
+      },
+      {
+        "$oid": "6612157b9987e0fd092a49b5"
+      },
+      {
+        "$oid": "6612ecf0ebab6821c9f693b8"
+      },
+      {
+        "$oid": "661254b8b7e65eeda24c10a3"
+      },
+      {
+        "$oid": "6612e33c34a009246095b623"
+      },
+      {
+        "$oid": "6612178f9987e0fd092a4dbd"
+      },
+      {
+        "$oid": "661227729987e0fd092a5eda"
+      },
+      {
+        "$oid": "6613572f38224591afec366e"
+      },
+      {
+        "$oid": "661204e49987e0fd092a3ea8"
+      },
+      {
+        "$oid": "6613280c3653f9f2b6447659"
+      },
+      {
+        "$oid": "66137839de935f6f40be712d"
+      },
+      {
+        "$oid": "6612143a9987e0fd092a47c3"
+      },
+      {
+        "$oid": "661384d2de935f6f40be762f"
+      },
+      {
+        "$oid": "66129cabd1cfdcb47289ff5f"
+      },
+      {
+        "$oid": "66138accde935f6f40be78b5"
+      },
+      {
+        "$oid": "66138ae7de935f6f40be78c0"
+      },
+      {
+        "$oid": "6612140d9987e0fd092a478c"
+      },
+      {
+        "$oid": "66138bfe418077513efb956a"
+      },
+      {
+        "$oid": "66138dd5418077513efb973c"
+      },
+      {
+        "$oid": "66138e07418077513efb9770"
+      },
+      {
+        "$oid": "66138ed2418077513efb9825"
+      },
+      {
+        "$oid": "66125668b7e65eeda24c1354"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "66128a16d1cfdcb47289e24e"
+      },
+      {
+        "$oid": "66124c04b7e65eeda24c0201"
+      },
+      {
+        "$oid": "6613af5f89e3e7d7dd1f87b1"
+      },
+      {
+        "$oid": "66139bf9b30c8e77b9947c09"
+      },
+      {
+        "$oid": "6613b858bda80495325c5711"
+      },
+      {
+        "$oid": "66122f2b9987e0fd092a65c2"
+      },
+      {
+        "$oid": "66121e4f9987e0fd092a55d8"
+      },
+      {
+        "$oid": "6613c09b94942f44c27262b4"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "66122ece9987e0fd092a6583"
+      },
+      {
+        "$oid": "6613dd3f305e192835661082"
+      },
+      {
+        "$oid": "6613e536305e1928356612ba"
+      },
+      {
+        "$oid": "6612ae61d1cfdcb4728a1cf6"
+      },
+      {
+        "$oid": "661254dfb7e65eeda24c10fc"
+      },
+      {
+        "$oid": "6612b6c3d1cfdcb4728a2951"
+      },
+      {
+        "$oid": "6613e9dc72183d74c5df7fa0"
+      },
+      {
+        "$oid": "66125063b7e65eeda24c09dc"
+      },
+      {
+        "$oid": "6613f30911b59497dcf79b76"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "6612ac6fd1cfdcb4728a180c"
+      },
+      {
+        "$oid": "66140e1effa96db6e7ccbe01"
+      },
+      {
+        "$oid": "6610a9ca8e4beb9f88f29409"
+      },
+      {
+        "$oid": "661416aedd2cfb05ba7fb1cf"
+      },
+      {
+        "$oid": "661294edd1cfdcb47289f055"
+      },
+      {
+        "$oid": "661423dd20e9302f6b6b2730"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6612562fb7e65eeda24c12c4"
+      },
+      {
+        "$oid": "661432a0a2c68cad30b075bf"
+      },
+      {
+        "$oid": "66121f179987e0fd092a568d"
+      },
+      {
+        "$oid": "6614bc58561a010df849d48f"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "6614ce49a7101ed5369d70d3"
+      },
+      {
+        "$oid": "6614d076a7101ed5369d725d"
+      },
+      {
+        "$oid": "6614ce58a7101ed5369d70db"
+      },
+      {
+        "$oid": "6614d171a7101ed5369d735c"
+      },
+      {
+        "$oid": "6614ca39a7101ed5369d6ffa"
+      }
+    ],
+    "isMainEvent": false,
+    "isOpen": false,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-06T19:14:29.285Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-09T07:38:29.889Z"
+    },
+    "__v": 78
+  },
+  {
+    "_id": {
+      "$oid": "66136cb8fe49145d27118afe"
+    },
+    "name": "Photography Workshop ",
+    "date": "13/4/2024",
+    "time": "11:00",
+    "venue": "Degree Block (Room Number - 14)",
+    "club": {
+      "$oid": "66136c71fe49145d27118aca"
+    },
+    "clubName": "Workshop Club",
+    "image": "https://llm1041430350.blob.core.windows.net/shristi-images/878316a4-3ddd-4671-959b-b8f57d6b24501000389439.jpg?sv=2022-11-02&ss=b&srt=sco&sp=rwdlaciytfx&se=2024-04-30T00:15:08Z&st=2024-04-02T16:15:08Z&spr=https&sig=%2BOjFAqiCutR7Urdzz9GU5LF3QhsJpMP1NQLRlRI5Znk%3D",
+    "desc": "<p>This workshop is being hosted by SHRISTI'24 and is open to participants interested in honing their skills in both digital camera and mobile photography.</p><p><br></p><p>E-certificates will be shared through email.</p><p><br></p><p>Mentor:</p><p>Er Hali Welly</p><p>Executive Engineer</p><p>Department of Urban Development &amp; Housing</p><p>Aalo Division, West Siang, Arunachal Pradesh</p><p><br></p><p>Date: 13/04/2024</p><p>Time: 11:00 - 13:00</p><p>Venue: Degree Block (Room Number- 14)</p><p><br></p><p><br></p><p>For more information,</p><p>Contact:</p><p>Deepchayan Roy Chowdhury</p><p>Workshop Incharge</p><p>Ph - 8731903147</p><p>Email - deepchayan@gmail.com</p><p><br></p><p>Shubham Gayan</p><p>Workshop Incharge</p><p>Ph - 9101137461</p><p>Email - shubhamgayan589@gmail.com</p>",
+    "user": [
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6613b858bda80495325c5711"
+      },
+      {
+        "$oid": "66125625b7e65eeda24c12b4"
+      },
+      {
+        "$oid": "661294e3d1cfdcb47289f047"
+      },
+      {
+        "$oid": "6612ae61d1cfdcb4728a1cf6"
+      },
+      {
+        "$oid": "66126d39276266f14cb3b534"
+      },
+      {
+        "$oid": "6612bee4d1cfdcb4728a3200"
+      },
+      {
+        "$oid": "6614ea21af93500a69066a60"
+      },
+      {
+        "$oid": "6614d171a7101ed5369d735c"
+      },
+      {
+        "$oid": "6615f74c9a14f7afc614b710"
+      },
+      {
+        "$oid": "6612ca36314c28086bd13fce"
+      },
+      {
+        "$oid": "6613b64c841058706f5e6d4f"
+      },
+      {
+        "$oid": "66163edd23e4d4b2d4384063"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "66168fe09e093b014a0e4a16"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": false,
+    "priceO": "0",
+    "priceN": "0",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-08T04:04:08.188Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:17:06.400Z"
+    },
+    "__v": 19
+  },
+  {
+    "_id": {
+      "$oid": "661541484f9b349b0643162e"
+    },
+    "name": "Skyward Sling",
+    "date": "10/4/2024",
+    "time": "16:00",
+    "venue": "NERIST GROUND",
+    "club": {
+      "$oid": "660d592915a1c739a242b67a"
+    },
+    "clubName": "Mechanical Engineering",
+    "image": "https://lkefjyhyetaykbxencgg.supabase.co/storage/v1/object/public/srishti/Skyward%20Sling-WhatsApp%20Image%202024-04-09%20at%206.48.16%20PM.jpeg",
+    "desc": "<p><em>The great Catapult Creation </em></p><p><strong><em>RULES:</em></strong></p><p><em>Competition Catapult arm length should not exceed 100cm </em></p><p><em>The length of catapult should not exceed 150cm </em></p><p><em>Catapult size should not be less than 70cm</em></p>",
+    "user": [],
+    "isMainEvent": false,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": true,
+    "priceO": "",
+    "priceN": "",
+    "disabled": true,
+    "createdAt": {
+      "$date": "2024-04-09T13:23:20.353Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-09T13:23:20.353Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "661541e14f9b349b06431642"
+    },
+    "name": "AquaThrust Showdown",
+    "date": "12/4/2024",
+    "time": "11:00",
+    "venue": "NERIST GROUND",
+    "club": {
+      "$oid": "660d592915a1c739a242b67a"
+    },
+    "clubName": "Mechanical Engineering",
+    "image": "https://lkefjyhyetaykbxencgg.supabase.co/storage/v1/object/public/srishti/AquaThrust%20Showdown-WhatsApp%20Image%202024-04-09%20at%206.48.14%20PM.jpeg",
+    "desc": "<p><em>Water Rocket - This is a competition where participants design and launch water-powered rockets.</em></p><p><strong><em>RULES:</em></strong></p><p><em>Craft A rocket and a launcher </em></p><p><em>Launcher pipe and valve will be provided </em></p><p><em>Previous year build will not be allowed</em></p>",
+    "user": [],
+    "isMainEvent": false,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": false,
+    "priceO": "",
+    "priceN": "",
+    "disabled": true,
+    "createdAt": {
+      "$date": "2024-04-09T13:25:53.346Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-09T13:25:53.346Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6615430a4f9b349b06431667"
+    },
+    "name": "Surprise the Tongue",
+    "date": "13/4/2024",
+    "time": "10:00",
+    "venue": "Agriculture department practical room",
+    "club": {
+      "$oid": "660d59c015a1c739a242b693"
+    },
+    "clubName": "Agricultural Engineering",
+    "image": "https://lkefjyhyetaykbxencgg.supabase.co/storage/v1/object/public/srishti/Surprise%20the%20Tongue-WhatsApp%20Image%202024-04-09%20at%206.57.27%20PM.jpeg",
+    "desc": "<p><strong><em>RULES:</em></strong></p><p><em>1. Ingredients will be revealed on the spot. </em></p><p><em>2. Prepare a delicious item with the given ingredients. </em></p><p><em>3. Bring your own utensils and induction. </em></p><p><em>4. A minimum number of induction will be provided and given out on first come first serve basis. </em></p><p><em>5. Maximum number of participants 10 groups of 3 members each.</em></p>",
+    "user": [
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "661571a1b6987a199458d541"
+      },
+      {
+        "$oid": "6612cad9314c28086bd14091"
+      },
+      {
+        "$oid": "661576eb014ff3124a239ced"
+      },
+      {
+        "$oid": "66157840014ff3124a239e20"
+      },
+      {
+        "$oid": "661116845147e717cde1536d"
+      },
+      {
+        "$oid": "6610b9448e4beb9f88f295fa"
+      },
+      {
+        "$oid": "66157be8014ff3124a23a08c"
+      },
+      {
+        "$oid": "66126d39276266f14cb3b534"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "6615896ba9b348622ab80217"
+      },
+      {
+        "$oid": "6613add989e3e7d7dd1f86b6"
+      },
+      {
+        "$oid": "66129edfd1cfdcb4728a034f"
+      },
+      {
+        "$oid": "661248b8b7e65eeda24bfbd7"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "661233dd9987e0fd092a69e4"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "66128bfed1cfdcb47289e54b"
+      },
+      {
+        "$oid": "6615750eb6987a199458d859"
+      },
+      {
+        "$oid": "66161b6d5ee6c5fb496d49eb"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "6612ae61d1cfdcb4728a1cf6"
+      },
+      {
+        "$oid": "66163a15d5a5533b8af88eeb"
+      },
+      {
+        "$oid": "66138975de935f6f40be783e"
+      },
+      {
+        "$oid": "66128b46d1cfdcb47289e427"
+      },
+      {
+        "$oid": "66125ae3b7e65eeda24c1b80"
+      },
+      {
+        "$oid": "661657b06c051b8f8e6cbf44"
+      },
+      {
+        "$oid": "661662fa07241351dc987351"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6612e58b05c4a32232b9c809"
+      },
+      {
+        "$oid": "6611cb7b9987e0fd092a318b"
+      },
+      {
+        "$oid": "66168b100a54b8e2fb312d86"
+      },
+      {
+        "$oid": "661412d5dd2cfb05ba7faece"
+      },
+      {
+        "$oid": "6613b858bda80495325c5711"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "661698ba747dea93c9fdaa04"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": false,
+    "priceO": "",
+    "priceN": "",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-09T13:30:50.463Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T14:10:31.221Z"
+    },
+    "__v": 38
+  },
+  {
+    "_id": {
+      "$oid": "6615439a4f9b349b06431671"
+    },
+    "name": "Bake a cookie",
+    "date": "12/4/2024",
+    "time": "14:00",
+    "venue": "Agriculture department practical Lab",
+    "club": {
+      "$oid": "660d59c015a1c739a242b693"
+    },
+    "clubName": "Agricultural Engineering",
+    "image": "https://lkefjyhyetaykbxencgg.supabase.co/storage/v1/object/public/srishti/Bake%20a%20cookie-WhatsApp%20Image%202024-04-09%20at%206.57.27%20PM%20(1).jpeg",
+    "desc": "<p><strong><em>RULES:</em></strong></p><p><em>1. Ingredients will be provided. </em></p><p><em>2. Maximum number of participants 10 groups of 2 members each. </em></p><p><em>3. Bring your own utensils</em></p>",
+    "user": [
+      {
+        "$oid": "6612354b9987e0fd092a6b5e"
+      },
+      {
+        "$oid": "6612cad9314c28086bd14091"
+      },
+      {
+        "$oid": "66157840014ff3124a239e20"
+      },
+      {
+        "$oid": "66142201dd2cfb05ba7fb8d1"
+      },
+      {
+        "$oid": "66158859a9b348622ab8011a"
+      },
+      {
+        "$oid": "6615896ba9b348622ab80217"
+      },
+      {
+        "$oid": "66121f179987e0fd092a568d"
+      },
+      {
+        "$oid": "6612cb81314c28086bd14138"
+      },
+      {
+        "$oid": "66123d239987e0fd092a73a2"
+      },
+      {
+        "$oid": "66162ee8587bc6380906aa62"
+      },
+      {
+        "$oid": "66125ae3b7e65eeda24c1b80"
+      },
+      {
+        "$oid": "661158885147e717cde15d23"
+      },
+      {
+        "$oid": "6611ea4d9987e0fd092a390e"
+      },
+      {
+        "$oid": "6612d4a8314c28086bd14bc6"
+      },
+      {
+        "$oid": "66168b330a54b8e2fb312d90"
+      },
+      {
+        "$oid": "6612e141e181e691bc76c9af"
+      },
+      {
+        "$oid": "661294f6d1cfdcb47289f067"
+      }
+    ],
+    "isMainEvent": true,
+    "isOpen": true,
+    "createdBy": {
+      "$oid": "6609709a5dfe52e400154f20"
+    },
+    "isPaid": false,
+    "priceO": "",
+    "priceN": "",
+    "disabled": false,
+    "createdAt": {
+      "$date": "2024-04-09T13:33:14.620Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-10T16:46:04.035Z"
+    },
+    "__v": 17
+  }]
+}

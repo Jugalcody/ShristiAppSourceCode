@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    app:cardBackgroundColor="#F4F4F6"
+    android:id="@+id/event_home_ll"
+    android:elevation="6dp"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Computer Science Dept."
+            android:id="@+id/text_home_eventdesign"
+            android:fontFamily="@font/yearone"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:paddingStart="10dp"
+            android:paddingBottom="11dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="11dp"
+            />
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:id="@+id/talkdesgin_constraint"
+    android:layout_below="@id/text_home_eventdesign"
+    android:layout_height="wrap_content"
+    >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:maxHeight="5dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_default="wrap"
+            app:layout_constraintHeight_min="100dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintHeight_max="550dp"
+            android:paddingStart="10dp"
+            android:paddingBottom="11dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="11dp"
+            android:src="@drawable/hardwaregeek"
+            android:id="@+id/img_home_eventdesign"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:layout_below="@id/talkdesgin_constraint"
+            android:textSize="15sp"
+            android:paddingStart="10dp"
+            android:id="@+id/event_datedesign"
+            android:paddingBottom="11dp"
+            android:textColor="@color/black"
+            android:paddingEnd="10dp"
+            android:fontFamily="@font/aldrich"
+            android:paddingTop="11dp"
+            />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

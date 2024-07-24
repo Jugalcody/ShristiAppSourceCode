@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/stars"
+    tools:context=".Pastevent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_past"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        app:title="Shristi 2k24"
+        android:gravity="center"
+        android:background="#13172C"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.DayNight">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:id="@+id/pastbg"
+        android:scaleType="centerCrop"
+        android:layout_height="match_parent"
+        />
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_below="@id/toolbar_past"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:text="Deptartment Events"
+        android:id="@+id/past_title"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:background="@color/transparent"
+        android:fontFamily="@font/yearone"
+
+        />
+
+    <com.denzcoskun.imageslider.ImageSlider
+        android:id="@+id/past_slider"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/past_title"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fitsSystemWindows="true"
+        app:iss_auto_cycle="true"
+        app:iss_corner_radius="20"
+        app:iss_delay="300"
+        app:iss_period="2000" />
+    <com.denzcoskun.imageslider.ImageSlider
+        android:id="@+id/past_slider2"
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/past_slider"
+        android:visibility="gone"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:fitsSystemWindows="true"
+        app:iss_auto_cycle="true"
+        app:iss_corner_radius="10"
+        app:iss_delay="300"
+        app:iss_period="2000" />
+
+    <TextView
+        android:id="@+id/past_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/past_slider2"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="#272727"
+        android:fontFamily="@font/aldrich"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="Shristi Tech Fest, hosted by NERIST, is an exciting convergence of innovation and ingenuity, featuring a wide array of challenges across departments. In Computer Science Department , participants can put their coding skills to the test in Blind Coding,Hackathons,Competitive coding,etc. Mechanical enthusiasts can engage in adrenaline-pumping competitions like the Water Rocket Challenge and Drone War Challenge. Civil Engineering offers opportunities such as 'Know Your Earth', 'Waste to Best', and 'Civic Vision to Design', focusing on sustainability and urban planning. The Electrical department hosts captivating events like Tech Logic and Circuiter, while Forestry invites participants to debates and the Model Maze challenge. ECE enthusiasts can explore the Line Follower Race and Robo Soccer League. With a diverse range of activities spanning these departments and beyond, Shristi Tech Fest promises an inspiring journey of innovation and collaboration for all participants"
+        android:textColor="#A5A4A4"
+
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/pastrobo_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@id/past_rec2"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/tranparentbut"
+        android:fontFamily="@font/yearone"
+        android:padding="10dp"
+        android:text="Past Events"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_below="@id/pastrobo_title"
+        android:id="@+id/past_rec0"
+        android:layout_height="wrap_content"
+        />
+
+
+    <TextView
+        android:id="@+id/pasthydro_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/past_desc"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/tranparentbut"
+        android:fontFamily="@font/yearone"
+        android:padding="10dp"
+        android:text="Latest Updates"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_below="@id/pasthydro_title"
+        android:id="@+id/past_rec2"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/pastteaser_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/past_rec0"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/tranparentbut"
+        android:fontFamily="@font/yearone"
+        android:padding="10dp"
+
+        android:text="Past Teasers"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+
+    android:layout_below="@id/pastteaser_update"
+    android:id="@+id/past_rec"
+    android:layout_height="wrap_content"
+    />
+</RelativeLayout>
+</ScrollView>
+</RelativeLayout>

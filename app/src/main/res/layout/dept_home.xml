@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    app:cardBackgroundColor="@color/transparent"
+    android:id="@+id/dept_home_ll"
+    android:elevation="6dp"
+    app:cardCornerRadius="20dp"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:padding="2dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Computer Science Dept."
+            android:id="@+id/text_home_deptdesign"
+            android:fontFamily="@font/yearone"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:paddingStart="10dp"
+            android:paddingBottom="11dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="11dp"
+            />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
